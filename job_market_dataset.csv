@@ -1,0 +1,2402 @@
+work_year,job_title,skills,experience_level,salary_usd,company_location,remote_ratio,industry
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,149783,Australia,100,Healthcare
+2024,AI Engineer,"Python, SQL, Machine Learning",Senior,62900,Canada,100,Cloud Services
+2021,ML Engineer,"Python, NLP, PyTorch",Senior,140657,Canada,75,Cloud Services
+2021,Software Engineer,"Python, SQL, Machine Learning",Entry,108735,Germany,100,IT
+2021,ML Engineer,"Java, Spring Boot, Microservices",Mid,142149,Canada,75,E-commerce
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,95412,India,25,E-commerce
+2022,Software Engineer,"Java, Spring Boot, Microservices",Senior,100903,UK,100,Cloud Services
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Senior,115109,Germany,100,E-commerce
+2021,Cloud Engineer,"SQL, Excel, Power BI",Entry,108507,India,50,IT
+2022,Data Analyst,"Python, NLP, PyTorch",Entry,141418,US,25,Healthcare
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,70054,Canada,50,E-commerce
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Mid,148768,US,50,IT
+2021,ML Engineer,"SQL, Excel, Power BI",Senior,109010,Germany,25,Finance
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Senior,74615,India,75,Cloud Services
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,141290,US,25,IT
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,129376,Germany,75,E-commerce
+2021,Data Scientist,"Python, SQL, Machine Learning",Senior,103580,Canada,25,IT
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,127522,Australia,75,Healthcare
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Entry,107589,US,75,E-commerce
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Mid,102433,India,0,IT
+2020,Software Engineer,"Python, NLP, PyTorch",Senior,100497,Canada,100,Finance
+2020,ML Engineer,"Python, SQL, Machine Learning",Mid,113844,Germany,50,Finance
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,132198,Germany,0,Finance
+2020,AI Engineer,"SQL, Excel, Power BI",Mid,94948,UK,25,Healthcare
+2024,Business Analyst,"Python, SQL, Machine Learning",Senior,143226,UK,25,Cloud Services
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Senior,74800,Australia,100,Healthcare
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,97952,US,0,Finance
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,108433,Australia,50,E-commerce
+2020,Data Analyst,"Java, Spring Boot, Microservices",Mid,69160,UK,50,E-commerce
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,137143,Australia,0,Healthcare
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Mid,115817,Canada,25,Finance
+2021,Data Analyst,"Python, SQL, Machine Learning",Mid,61246,US,25,Healthcare
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Entry,98461,UK,25,Cloud Services
+2020,Software Engineer,"Python, SQL, Machine Learning",Entry,116626,Germany,75,Cloud Services
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Senior,87818,UK,0,Finance
+2021,Business Analyst,"Java, Spring Boot, Microservices",Senior,66995,India,0,Healthcare
+2022,Business Analyst,"Python, SQL, Machine Learning",Mid,136724,US,100,Cloud Services
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,138961,India,75,Cloud Services
+2024,Business Analyst,"Python, NLP, PyTorch",Entry,116814,Australia,25,Finance
+2023,Data Scientist,"Statistics, R, Data Visualization",Entry,147010,India,50,E-commerce
+2022,Data Scientist,"AWS, Azure, Cloud Computing",Mid,66368,Australia,0,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Entry,103673,Australia,100,Cloud Services
+2020,Software Engineer,"Python, NLP, PyTorch",Entry,64671,Canada,25,Healthcare
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Entry,104251,Canada,25,Finance
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,68228,Germany,25,IT
+2023,AI Engineer,"Python, SQL, Machine Learning",Mid,95053,India,0,E-commerce
+2022,Business Analyst,"SQL, Excel, Power BI",Entry,114719,Australia,75,Finance
+2021,ML Engineer,"Python, NLP, PyTorch",Mid,64600,Australia,50,Finance
+2022,ML Engineer,"Java, Spring Boot, Microservices",Entry,72002,US,0,Cloud Services
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Senior,100560,US,50,IT
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,64524,Australia,50,IT
+2020,Data Analyst,"Statistics, R, Data Visualization",Senior,71993,Canada,100,Finance
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Senior,124099,India,50,Cloud Services
+2020,Software Engineer,"Python, SQL, Machine Learning",Senior,120248,India,100,Healthcare
+2022,ML Engineer,"Python, SQL, Machine Learning",Senior,95789,Canada,50,E-commerce
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Entry,86779,India,50,E-commerce
+2023,AI Engineer,"SQL, Excel, Power BI",Senior,90570,UK,50,E-commerce
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,127418,UK,100,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,148053,India,0,E-commerce
+2021,Data Scientist,"SQL, Excel, Power BI",Mid,122065,Australia,100,Finance
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Mid,77357,UK,25,Healthcare
+2024,ML Engineer,"SQL, Excel, Power BI",Entry,76183,Germany,0,Cloud Services
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Mid,145970,UK,0,Cloud Services
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,108067,Australia,50,Finance
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Mid,81941,Canada,75,Finance
+2022,Business Analyst,"SQL, Excel, Power BI",Senior,148046,Germany,100,Cloud Services
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,75868,Canada,75,Healthcare
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,97765,Canada,25,IT
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,79640,Australia,50,E-commerce
+2021,Software Engineer,"Python, SQL, Machine Learning",Senior,84179,Canada,100,IT
+2020,Data Analyst,"Java, Spring Boot, Microservices",Mid,101138,Canada,50,Cloud Services
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Senior,134861,Germany,50,E-commerce
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,93392,India,25,Cloud Services
+2022,ML Engineer,"Statistics, R, Data Visualization",Senior,146103,US,25,Healthcare
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,113643,India,0,Healthcare
+2021,ML Engineer,"Python, NLP, PyTorch",Mid,87815,Canada,25,Healthcare
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,127906,UK,75,Finance
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Senior,92899,US,75,E-commerce
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Senior,141965,UK,0,Finance
+2023,Business Analyst,"Python, SQL, Machine Learning",Entry,65974,Germany,25,E-commerce
+2023,Data Scientist,"Python, NLP, PyTorch",Senior,143328,Canada,50,Cloud Services
+2023,Data Scientist,"Python, NLP, PyTorch",Entry,136721,India,50,IT
+2020,Data Scientist,"SQL, Excel, Power BI",Senior,143382,Germany,75,IT
+2020,ML Engineer,"SQL, Excel, Power BI",Mid,133779,India,75,Finance
+2023,Cloud Engineer,"Python, NLP, PyTorch",Mid,94155,US,100,Cloud Services
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Senior,131812,Canada,100,E-commerce
+2023,Software Engineer,"Python, NLP, PyTorch",Senior,115933,India,25,E-commerce
+2022,Software Engineer,"Python, SQL, Machine Learning",Mid,103285,India,0,Finance
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,72356,UK,25,Healthcare
+2021,Business Analyst,"Python, SQL, Machine Learning",Senior,76660,UK,0,Finance
+2020,Data Analyst,"Python, NLP, PyTorch",Entry,83172,US,0,Finance
+2020,AI Engineer,"SQL, Excel, Power BI",Entry,137590,US,0,Finance
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Senior,64841,India,0,Finance
+2023,Data Scientist,"Python, NLP, PyTorch",Entry,122754,India,50,E-commerce
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,111172,Germany,75,Cloud Services
+2022,AI Engineer,"Java, Spring Boot, Microservices",Mid,65858,Germany,75,IT
+2022,AI Engineer,"Statistics, R, Data Visualization",Entry,65986,US,75,IT
+2020,Business Analyst,"Java, Spring Boot, Microservices",Senior,116286,Australia,50,Healthcare
+2022,Software Engineer,"Python, NLP, PyTorch",Senior,111331,Canada,75,Finance
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,97680,Canada,100,Cloud Services
+2021,Data Scientist,"Python, NLP, PyTorch",Mid,148424,UK,100,Finance
+2021,Software Engineer,"Python, SQL, Machine Learning",Senior,102200,UK,75,Healthcare
+2022,Cloud Engineer,"Python, NLP, PyTorch",Entry,93283,India,75,Finance
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Senior,108322,India,25,Finance
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,70654,UK,75,IT
+2021,AI Engineer,"Python, SQL, Machine Learning",Mid,109604,India,50,Cloud Services
+2023,Business Analyst,"Java, Spring Boot, Microservices",Senior,83402,UK,50,IT
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,128271,US,0,IT
+2020,Software Engineer,"Python, NLP, PyTorch",Mid,146370,Canada,100,Cloud Services
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,81037,Canada,75,Finance
+2021,Business Analyst,"Python, NLP, PyTorch",Mid,85045,US,50,E-commerce
+2024,Data Scientist,"Python, NLP, PyTorch",Senior,119816,Canada,25,Healthcare
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,83326,Germany,75,E-commerce
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Mid,132888,Canada,25,Cloud Services
+2024,AI Engineer,"Python, NLP, PyTorch",Mid,111807,Australia,100,E-commerce
+2020,Data Analyst,"Python, SQL, Machine Learning",Entry,63702,US,75,Finance
+2022,Data Scientist,"Java, Spring Boot, Microservices",Senior,140354,Canada,75,E-commerce
+2021,Business Analyst,"Python, SQL, Machine Learning",Mid,145716,Canada,25,Finance
+2022,Data Analyst,"Python, SQL, Machine Learning",Entry,141324,Germany,75,Finance
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,68464,Germany,50,Finance
+2024,ML Engineer,"Python, NLP, PyTorch",Mid,80048,Germany,0,Cloud Services
+2020,Data Analyst,"SQL, Excel, Power BI",Mid,76885,US,0,IT
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Senior,111819,Australia,100,IT
+2022,AI Engineer,"SQL, Excel, Power BI",Entry,65652,Canada,50,Healthcare
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,80214,UK,50,Cloud Services
+2024,Software Engineer,"Java, Spring Boot, Microservices",Entry,134747,US,50,E-commerce
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Entry,75934,Canada,100,IT
+2023,AI Engineer,"Java, Spring Boot, Microservices",Senior,114254,Germany,50,Healthcare
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,74444,Germany,25,Cloud Services
+2021,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,111052,Germany,100,E-commerce
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,145250,India,25,Finance
+2021,Business Analyst,"Statistics, R, Data Visualization",Senior,109751,UK,25,Finance
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Senior,78880,Canada,75,Healthcare
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,92137,Australia,100,Healthcare
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,88816,Australia,0,Cloud Services
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,122837,Canada,0,E-commerce
+2021,Data Analyst,"SQL, Excel, Power BI",Mid,123375,Australia,75,E-commerce
+2024,Business Analyst,"Java, Spring Boot, Microservices",Senior,114293,UK,50,Finance
+2021,Software Engineer,"Python, SQL, Machine Learning",Senior,119751,Australia,75,Cloud Services
+2023,Data Scientist,"Java, Spring Boot, Microservices",Entry,61056,Germany,25,Finance
+2024,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,118277,UK,50,Healthcare
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,102644,Germany,25,Finance
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,138175,Germany,100,Finance
+2022,Data Scientist,"Python, NLP, PyTorch",Entry,80527,Germany,75,Finance
+2024,Data Analyst,"Python, NLP, PyTorch",Senior,123377,India,50,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,102071,Canada,75,IT
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Senior,142228,Australia,25,IT
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Senior,64755,US,0,Finance
+2021,ML Engineer,"Java, Spring Boot, Microservices",Senior,119915,Canada,100,Finance
+2023,Data Scientist,"SQL, Excel, Power BI",Entry,136315,India,0,Healthcare
+2024,ML Engineer,"Python, SQL, Machine Learning",Mid,149093,Germany,75,Finance
+2020,Data Analyst,"Statistics, R, Data Visualization",Mid,114550,India,25,Healthcare
+2022,Data Scientist,"Python, NLP, PyTorch",Entry,109760,Canada,75,Cloud Services
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,81743,India,100,Cloud Services
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Entry,61157,Germany,75,Healthcare
+2021,Data Scientist,"Python, NLP, PyTorch",Senior,105227,Germany,25,Healthcare
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Mid,97172,UK,100,Finance
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Senior,114907,UK,75,IT
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Entry,129872,US,0,Healthcare
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Mid,131434,India,50,IT
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,87673,UK,0,Finance
+2021,Business Analyst,"Statistics, R, Data Visualization",Entry,83960,UK,100,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,124811,US,50,E-commerce
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,132488,Canada,100,Healthcare
+2021,ML Engineer,"Python, SQL, Machine Learning",Senior,109008,Australia,100,IT
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,113412,US,0,Healthcare
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Senior,98954,US,0,Finance
+2020,Software Engineer,"Python, SQL, Machine Learning",Senior,146502,Canada,75,Cloud Services
+2021,Business Analyst,"Statistics, R, Data Visualization",Entry,148789,UK,100,E-commerce
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,105230,India,75,IT
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,126653,Canada,100,Healthcare
+2024,Business Analyst,"SQL, Excel, Power BI",Senior,75279,Germany,100,IT
+2023,Data Analyst,"Statistics, R, Data Visualization",Mid,93123,Canada,75,Healthcare
+2020,Cloud Engineer,"Python, NLP, PyTorch",Senior,74548,Canada,75,E-commerce
+2023,Software Engineer,"Python, SQL, Machine Learning",Mid,73713,Canada,75,IT
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Senior,129626,Canada,100,E-commerce
+2024,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,72224,UK,75,E-commerce
+2020,ML Engineer,"SQL, Excel, Power BI",Entry,149158,Germany,100,Healthcare
+2020,AI Engineer,"Python, NLP, PyTorch",Mid,99222,UK,100,Cloud Services
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Senior,83600,Germany,75,E-commerce
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,65686,India,50,E-commerce
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,100580,Canada,0,Healthcare
+2022,Cloud Engineer,"Python, NLP, PyTorch",Mid,115374,Australia,100,Cloud Services
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,71001,Australia,50,Healthcare
+2022,ML Engineer,"SQL, Excel, Power BI",Senior,100760,Australia,75,Cloud Services
+2020,Data Analyst,"Python, NLP, PyTorch",Senior,94564,Canada,25,Cloud Services
+2024,Data Analyst,"Java, Spring Boot, Microservices",Entry,135426,Canada,25,Cloud Services
+2024,AI Engineer,"Java, Spring Boot, Microservices",Entry,62812,US,0,Finance
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,97229,India,100,E-commerce
+2022,Business Analyst,"SQL, Excel, Power BI",Senior,94256,Australia,50,Cloud Services
+2022,AI Engineer,"Java, Spring Boot, Microservices",Senior,114411,UK,75,IT
+2024,Data Analyst,"SQL, Excel, Power BI",Senior,114342,US,0,E-commerce
+2020,Software Engineer,"Statistics, R, Data Visualization",Senior,69962,UK,25,Healthcare
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,128982,Australia,50,Finance
+2022,Data Analyst,"Java, Spring Boot, Microservices",Senior,126328,UK,100,Cloud Services
+2022,ML Engineer,"SQL, Excel, Power BI",Mid,120208,Australia,0,E-commerce
+2021,AI Engineer,"SQL, Excel, Power BI",Senior,84860,Australia,50,Healthcare
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Senior,87086,Canada,50,IT
+2024,Cloud Engineer,"Python, SQL, Machine Learning",Senior,113223,Australia,25,Healthcare
+2021,Software Engineer,"Python, NLP, PyTorch",Mid,71218,India,100,Finance
+2024,ML Engineer,"Statistics, R, Data Visualization",Entry,80673,India,100,E-commerce
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Mid,144655,UK,100,Healthcare
+2022,Software Engineer,"SQL, Excel, Power BI",Senior,149733,India,25,E-commerce
+2022,AI Engineer,"Python, NLP, PyTorch",Mid,102918,US,25,E-commerce
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Entry,116613,Germany,50,E-commerce
+2024,Software Engineer,"SQL, Excel, Power BI",Entry,94459,Australia,0,Cloud Services
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,134570,Canada,100,Healthcare
+2020,Data Analyst,"Statistics, R, Data Visualization",Mid,116805,UK,75,IT
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,143767,Canada,0,Finance
+2021,Software Engineer,"SQL, Excel, Power BI",Senior,62036,Germany,25,E-commerce
+2022,Software Engineer,"Python, SQL, Machine Learning",Entry,85962,UK,25,E-commerce
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,79852,India,100,E-commerce
+2024,Data Analyst,"Python, NLP, PyTorch",Senior,69080,Australia,50,IT
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Mid,119057,Germany,0,E-commerce
+2022,Software Engineer,"Java, Spring Boot, Microservices",Entry,113717,Australia,75,Finance
+2021,Business Analyst,"Java, Spring Boot, Microservices",Entry,107550,US,100,Cloud Services
+2021,Software Engineer,"Python, NLP, PyTorch",Entry,136578,Canada,100,Finance
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,64680,UK,25,IT
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,127653,Australia,100,IT
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,121728,US,25,Healthcare
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,111332,Australia,50,Finance
+2022,Software Engineer,"SQL, Excel, Power BI",Senior,71264,Australia,50,Healthcare
+2023,AI Engineer,"Statistics, R, Data Visualization",Senior,144543,UK,100,Cloud Services
+2020,Business Analyst,"Statistics, R, Data Visualization",Senior,99050,India,25,Cloud Services
+2022,Data Scientist,"AWS, Azure, Cloud Computing",Mid,119381,UK,25,IT
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Entry,133939,India,50,IT
+2021,Data Analyst,"Java, Spring Boot, Microservices",Mid,149973,Australia,100,Finance
+2023,AI Engineer,"Python, NLP, PyTorch",Mid,67301,US,0,IT
+2021,ML Engineer,"Python, SQL, Machine Learning",Senior,137192,US,100,E-commerce
+2022,Data Scientist,"AWS, Azure, Cloud Computing",Entry,131111,Germany,25,Cloud Services
+2021,Data Analyst,"Python, SQL, Machine Learning",Mid,124885,UK,0,Finance
+2024,Business Analyst,"SQL, Excel, Power BI",Mid,142994,Germany,75,Cloud Services
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,119021,Germany,75,Cloud Services
+2023,Cloud Engineer,"Python, NLP, PyTorch",Mid,136721,US,50,Finance
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Senior,120523,UK,100,Cloud Services
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,144292,Australia,0,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,133721,UK,75,E-commerce
+2022,Software Engineer,"Python, NLP, PyTorch",Entry,104753,India,50,Healthcare
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Mid,75612,US,50,E-commerce
+2021,Data Scientist,"Statistics, R, Data Visualization",Senior,106704,Germany,75,Finance
+2021,Data Analyst,"Java, Spring Boot, Microservices",Senior,79713,UK,75,Cloud Services
+2020,Data Scientist,"AWS, Azure, Cloud Computing",Senior,116849,India,75,E-commerce
+2021,Business Analyst,"Java, Spring Boot, Microservices",Mid,133639,UK,100,IT
+2021,Business Analyst,"SQL, Excel, Power BI",Senior,110168,Germany,75,E-commerce
+2020,Software Engineer,"Java, Spring Boot, Microservices",Senior,85612,UK,0,E-commerce
+2023,Business Analyst,"Java, Spring Boot, Microservices",Mid,103041,Germany,0,E-commerce
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Senior,133237,India,0,Cloud Services
+2021,Data Scientist,"Java, Spring Boot, Microservices",Senior,107535,Canada,100,E-commerce
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,107443,Germany,50,Finance
+2021,ML Engineer,"SQL, Excel, Power BI",Mid,66487,Australia,100,E-commerce
+2023,Cloud Engineer,"SQL, Excel, Power BI",Entry,65707,US,25,Healthcare
+2024,Data Analyst,"Python, NLP, PyTorch",Entry,140316,India,75,IT
+2020,AI Engineer,"Java, Spring Boot, Microservices",Entry,131778,Germany,25,Healthcare
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,143569,UK,0,IT
+2024,AI Engineer,"Java, Spring Boot, Microservices",Senior,87909,India,25,IT
+2022,Cloud Engineer,"Python, SQL, Machine Learning",Mid,140549,US,100,E-commerce
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,68832,Canada,100,Healthcare
+2021,Cloud Engineer,"Python, NLP, PyTorch",Mid,144685,UK,0,Cloud Services
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,81971,US,0,IT
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,104500,UK,25,Finance
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Mid,145089,Australia,25,Healthcare
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,71394,Australia,50,Healthcare
+2024,Business Analyst,"SQL, Excel, Power BI",Senior,93388,UK,75,Cloud Services
+2021,Cloud Engineer,"SQL, Excel, Power BI",Mid,92758,US,0,E-commerce
+2023,Data Scientist,"Java, Spring Boot, Microservices",Entry,72837,Australia,100,Healthcare
+2021,ML Engineer,"Python, NLP, PyTorch",Senior,89431,US,100,Healthcare
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Mid,120095,Germany,100,Finance
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Mid,65279,Germany,100,Cloud Services
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Senior,116963,Australia,0,Healthcare
+2020,Software Engineer,"Python, NLP, PyTorch",Senior,96696,Australia,100,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,105374,Canada,50,Finance
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,101330,US,0,Cloud Services
+2023,Data Analyst,"Statistics, R, Data Visualization",Entry,114589,Canada,25,E-commerce
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Mid,65723,Australia,75,Finance
+2020,Business Analyst,"Python, SQL, Machine Learning",Mid,147304,India,25,Finance
+2023,ML Engineer,"Java, Spring Boot, Microservices",Mid,149383,India,25,IT
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,78446,Australia,100,Cloud Services
+2023,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,69149,India,0,IT
+2022,ML Engineer,"Java, Spring Boot, Microservices",Entry,75005,India,100,E-commerce
+2024,Cloud Engineer,"Python, NLP, PyTorch",Senior,114005,US,75,E-commerce
+2023,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,98470,India,0,Finance
+2024,AI Engineer,"Python, SQL, Machine Learning",Senior,105214,Germany,100,Cloud Services
+2022,Data Analyst,"Java, Spring Boot, Microservices",Senior,134618,Canada,0,E-commerce
+2022,AI Engineer,"Python, NLP, PyTorch",Senior,108593,Canada,100,Cloud Services
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Mid,99049,UK,75,Finance
+2020,Data Scientist,"Python, NLP, PyTorch",Mid,96518,Australia,25,Finance
+2022,Business Analyst,"SQL, Excel, Power BI",Mid,74398,Germany,0,Cloud Services
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,149865,Australia,50,E-commerce
+2020,Data Scientist,"Statistics, R, Data Visualization",Mid,148291,UK,50,Finance
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Senior,64372,Germany,0,Finance
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,103623,Australia,100,Finance
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,71343,Australia,50,IT
+2023,Data Scientist,"SQL, Excel, Power BI",Senior,90408,UK,100,Healthcare
+2020,ML Engineer,"Python, SQL, Machine Learning",Senior,136681,Canada,75,Healthcare
+2021,Cloud Engineer,"Python, NLP, PyTorch",Senior,139779,Canada,25,Finance
+2022,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,79299,India,50,E-commerce
+2022,Data Analyst,"Java, Spring Boot, Microservices",Entry,71675,UK,75,E-commerce
+2022,AI Engineer,"SQL, Excel, Power BI",Entry,104042,India,75,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,75753,Germany,0,Finance
+2023,AI Engineer,"AWS, Azure, Cloud Computing",Mid,61118,Australia,50,IT
+2021,ML Engineer,"Python, NLP, PyTorch",Senior,78232,India,25,Cloud Services
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Senior,145769,Germany,50,IT
+2021,Business Analyst,"SQL, Excel, Power BI",Mid,105217,Germany,0,IT
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Entry,112652,Canada,75,Finance
+2022,Software Engineer,"Python, SQL, Machine Learning",Senior,89309,India,50,Healthcare
+2023,Data Scientist,"Python, NLP, PyTorch",Entry,124801,Canada,75,Cloud Services
+2020,AI Engineer,"Python, NLP, PyTorch",Senior,111377,UK,25,IT
+2020,ML Engineer,"Java, Spring Boot, Microservices",Entry,114592,UK,0,E-commerce
+2020,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,134012,Germany,75,E-commerce
+2021,Software Engineer,"SQL, Excel, Power BI",Entry,130575,US,0,Cloud Services
+2021,ML Engineer,"SQL, Excel, Power BI",Mid,78291,Canada,75,Healthcare
+2021,Business Analyst,"Python, SQL, Machine Learning",Senior,137811,Germany,0,E-commerce
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Entry,112542,Germany,50,Finance
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,98955,UK,25,IT
+2022,ML Engineer,"SQL, Excel, Power BI",Entry,118150,India,75,IT
+2020,Data Scientist,"Python, NLP, PyTorch",Entry,117194,Australia,75,Cloud Services
+2023,Data Analyst,"Java, Spring Boot, Microservices",Entry,118974,India,0,IT
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,136983,Canada,25,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,118696,Australia,0,Finance
+2020,Software Engineer,"Python, NLP, PyTorch",Entry,113077,UK,25,Healthcare
+2020,ML Engineer,"Python, SQL, Machine Learning",Entry,124062,UK,0,IT
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,85824,Germany,50,IT
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,97109,Australia,75,E-commerce
+2021,Business Analyst,"Statistics, R, Data Visualization",Mid,126407,India,50,E-commerce
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Senior,107016,Germany,0,E-commerce
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,63947,Canada,25,Healthcare
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Senior,108074,US,50,Finance
+2020,Business Analyst,"Statistics, R, Data Visualization",Mid,113552,Germany,75,Healthcare
+2024,AI Engineer,"Statistics, R, Data Visualization",Entry,131004,Germany,25,E-commerce
+2024,Software Engineer,"Python, NLP, PyTorch",Senior,78101,US,0,E-commerce
+2021,Software Engineer,"Python, NLP, PyTorch",Mid,105492,UK,50,Finance
+2024,Business Analyst,"Java, Spring Boot, Microservices",Mid,149976,Australia,0,Healthcare
+2022,Data Analyst,"Python, NLP, PyTorch",Mid,96965,Germany,0,Finance
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,89205,US,50,IT
+2020,Data Scientist,"Java, Spring Boot, Microservices",Mid,146506,US,100,Healthcare
+2022,Cloud Engineer,"Python, NLP, PyTorch",Senior,90338,Canada,100,Finance
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,138952,US,25,Cloud Services
+2020,AI Engineer,"Statistics, R, Data Visualization",Mid,85560,UK,0,IT
+2021,AI Engineer,"Python, NLP, PyTorch",Senior,70483,UK,75,Finance
+2023,ML Engineer,"Java, Spring Boot, Microservices",Mid,64602,India,75,E-commerce
+2024,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,104794,India,25,E-commerce
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Entry,85215,US,50,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,120517,India,50,E-commerce
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,98932,India,25,Finance
+2021,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,84313,US,0,Healthcare
+2024,Data Analyst,"Statistics, R, Data Visualization",Entry,139567,India,25,Finance
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,61513,Canada,75,E-commerce
+2024,Software Engineer,"Python, NLP, PyTorch",Mid,110380,UK,25,Healthcare
+2023,ML Engineer,"Statistics, R, Data Visualization",Entry,67315,Germany,25,Finance
+2024,Data Scientist,"Python, NLP, PyTorch",Entry,148143,US,25,Finance
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Senior,127971,Germany,25,Cloud Services
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Mid,88126,Canada,0,Healthcare
+2022,ML Engineer,"Python, SQL, Machine Learning",Senior,75973,Germany,0,Finance
+2021,AI Engineer,"Python, NLP, PyTorch",Senior,83687,India,25,IT
+2020,Business Analyst,"Statistics, R, Data Visualization",Entry,101507,India,100,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,149485,India,50,Healthcare
+2021,Data Scientist,"SQL, Excel, Power BI",Entry,71124,UK,100,Healthcare
+2023,Data Analyst,"Statistics, R, Data Visualization",Entry,93413,Australia,0,Cloud Services
+2024,AI Engineer,"SQL, Excel, Power BI",Mid,126174,US,75,E-commerce
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,139937,India,50,Finance
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,101514,UK,25,Healthcare
+2022,Data Analyst,"Python, NLP, PyTorch",Senior,93944,UK,75,Cloud Services
+2022,Data Scientist,"Statistics, R, Data Visualization",Entry,122060,UK,50,Cloud Services
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Entry,146347,Canada,100,IT
+2024,ML Engineer,"Python, NLP, PyTorch",Entry,100381,India,100,IT
+2023,Data Analyst,"Python, NLP, PyTorch",Mid,130169,Australia,25,Healthcare
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,142036,UK,25,Cloud Services
+2024,Business Analyst,"Statistics, R, Data Visualization",Mid,98405,India,50,Cloud Services
+2020,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,132928,Australia,25,IT
+2024,Data Analyst,"Python, NLP, PyTorch",Mid,128348,India,50,Finance
+2020,Data Scientist,"Python, NLP, PyTorch",Entry,111896,Germany,50,Healthcare
+2023,Data Scientist,"Python, NLP, PyTorch",Entry,83177,Australia,75,IT
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,114166,Canada,100,E-commerce
+2022,Data Analyst,"SQL, Excel, Power BI",Mid,127809,Canada,100,Cloud Services
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Entry,64592,Germany,100,Cloud Services
+2023,AI Engineer,"Python, SQL, Machine Learning",Mid,71260,India,50,Healthcare
+2021,ML Engineer,"SQL, Excel, Power BI",Mid,125587,Australia,25,Cloud Services
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Mid,61429,UK,25,IT
+2020,ML Engineer,"SQL, Excel, Power BI",Mid,79359,Australia,50,Cloud Services
+2021,ML Engineer,"Python, SQL, Machine Learning",Entry,103525,Australia,50,E-commerce
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Mid,124271,Germany,75,Finance
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Mid,135977,US,50,Finance
+2024,ML Engineer,"Statistics, R, Data Visualization",Mid,70451,India,25,Finance
+2022,Cloud Engineer,"SQL, Excel, Power BI",Senior,61516,Germany,0,Cloud Services
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,90503,Australia,25,E-commerce
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Mid,148026,UK,25,Finance
+2023,ML Engineer,"Java, Spring Boot, Microservices",Entry,135377,UK,50,Finance
+2020,Data Scientist,"SQL, Excel, Power BI",Senior,76381,India,100,Finance
+2022,Data Analyst,"Java, Spring Boot, Microservices",Entry,120646,US,0,IT
+2023,Data Scientist,"Java, Spring Boot, Microservices",Entry,110221,Germany,75,E-commerce
+2020,AI Engineer,"Python, SQL, Machine Learning",Mid,100737,Germany,25,Healthcare
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Senior,68053,Canada,25,Cloud Services
+2022,Data Analyst,"Java, Spring Boot, Microservices",Entry,61069,UK,25,Cloud Services
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Senior,60145,Australia,0,Finance
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,107392,US,75,IT
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,73158,Germany,75,Cloud Services
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,66442,India,75,Healthcare
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,84373,Canada,0,Finance
+2022,ML Engineer,"Statistics, R, Data Visualization",Entry,136678,Australia,25,Cloud Services
+2023,Software Engineer,"Python, SQL, Machine Learning",Mid,117468,India,75,IT
+2021,Data Scientist,"Python, NLP, PyTorch",Mid,94114,UK,50,Finance
+2024,Data Analyst,"SQL, Excel, Power BI",Entry,88881,US,25,Finance
+2024,Data Scientist,"Java, Spring Boot, Microservices",Senior,88564,Australia,100,IT
+2023,AI Engineer,"SQL, Excel, Power BI",Entry,67955,India,25,E-commerce
+2020,Data Scientist,"Statistics, R, Data Visualization",Senior,70151,Australia,100,E-commerce
+2020,Business Analyst,"Python, SQL, Machine Learning",Mid,82870,India,25,IT
+2021,Data Analyst,"Java, Spring Boot, Microservices",Entry,81071,Canada,100,Cloud Services
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,105089,India,25,Finance
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,94655,Australia,75,Healthcare
+2021,Cloud Engineer,"Python, NLP, PyTorch",Entry,134519,UK,0,Healthcare
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,107736,UK,75,E-commerce
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Entry,104890,Australia,75,IT
+2021,Software Engineer,"Java, Spring Boot, Microservices",Senior,121531,Germany,100,E-commerce
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,144499,Germany,25,IT
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Entry,100335,UK,25,Healthcare
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,75581,Germany,100,E-commerce
+2020,Data Analyst,"SQL, Excel, Power BI",Senior,131413,India,25,Finance
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,144150,UK,0,Finance
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Senior,126216,Canada,100,E-commerce
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,104060,Germany,25,IT
+2022,Data Analyst,"Python, SQL, Machine Learning",Mid,141624,India,25,Finance
+2024,Software Engineer,"Python, SQL, Machine Learning",Senior,133667,UK,0,E-commerce
+2024,AI Engineer,"Python, NLP, PyTorch",Entry,129507,India,25,Finance
+2020,Data Analyst,"Statistics, R, Data Visualization",Entry,111489,UK,50,Cloud Services
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,144644,UK,0,Healthcare
+2024,Software Engineer,"Java, Spring Boot, Microservices",Entry,85896,India,50,IT
+2020,ML Engineer,"Statistics, R, Data Visualization",Mid,127202,US,100,Cloud Services
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Mid,127581,Australia,100,Cloud Services
+2023,ML Engineer,"Python, NLP, PyTorch",Entry,79087,India,100,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Senior,90460,Germany,75,E-commerce
+2020,Data Analyst,"Python, NLP, PyTorch",Mid,96593,US,75,Healthcare
+2024,Data Analyst,"Python, NLP, PyTorch",Senior,76569,India,0,E-commerce
+2020,Software Engineer,"Statistics, R, Data Visualization",Entry,62064,Germany,25,E-commerce
+2020,AI Engineer,"Python, SQL, Machine Learning",Senior,89531,Canada,0,Healthcare
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Senior,132113,Canada,25,IT
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Entry,139815,US,100,Healthcare
+2020,Data Analyst,"Java, Spring Boot, Microservices",Entry,141082,Germany,75,Finance
+2022,AI Engineer,"Java, Spring Boot, Microservices",Entry,98934,India,75,IT
+2020,Business Analyst,"SQL, Excel, Power BI",Mid,108641,US,75,E-commerce
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,113031,India,50,IT
+2024,Software Engineer,"SQL, Excel, Power BI",Senior,83815,India,75,Cloud Services
+2020,Business Analyst,"SQL, Excel, Power BI",Entry,141413,US,50,E-commerce
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Mid,94581,UK,0,Finance
+2024,ML Engineer,"SQL, Excel, Power BI",Entry,109355,India,100,Cloud Services
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,111083,India,25,Healthcare
+2024,Software Engineer,"Java, Spring Boot, Microservices",Entry,82365,Canada,100,Cloud Services
+2024,Data Analyst,"Python, NLP, PyTorch",Mid,145460,Germany,50,E-commerce
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Entry,149640,US,0,Healthcare
+2022,ML Engineer,"Statistics, R, Data Visualization",Entry,65191,Canada,25,E-commerce
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,85777,Germany,100,Finance
+2024,Data Scientist,"Java, Spring Boot, Microservices",Entry,105551,Germany,0,Cloud Services
+2020,Software Engineer,"SQL, Excel, Power BI",Mid,69685,Canada,0,Cloud Services
+2020,Data Analyst,"Java, Spring Boot, Microservices",Senior,122380,India,75,IT
+2021,Data Scientist,"Python, SQL, Machine Learning",Mid,121258,Canada,0,E-commerce
+2020,AI Engineer,"Python, NLP, PyTorch",Mid,60122,US,0,Cloud Services
+2020,Data Analyst,"Statistics, R, Data Visualization",Entry,115026,UK,100,E-commerce
+2023,Software Engineer,"Java, Spring Boot, Microservices",Senior,76570,India,0,IT
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Mid,101057,Germany,50,Healthcare
+2020,Business Analyst,"Statistics, R, Data Visualization",Senior,92245,Canada,0,IT
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,86396,India,100,IT
+2024,Data Analyst,"Python, NLP, PyTorch",Senior,111740,UK,25,E-commerce
+2024,Data Scientist,"Python, NLP, PyTorch",Mid,117777,Canada,50,E-commerce
+2022,Data Scientist,"AWS, Azure, Cloud Computing",Mid,98581,Canada,0,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,139861,UK,75,E-commerce
+2020,Data Scientist,"Java, Spring Boot, Microservices",Mid,88100,Australia,0,IT
+2023,ML Engineer,"Java, Spring Boot, Microservices",Entry,118224,Australia,50,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Senior,148734,Canada,50,Cloud Services
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,74569,Canada,0,Cloud Services
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,81175,UK,0,IT
+2024,Data Analyst,"Statistics, R, Data Visualization",Entry,80975,Canada,75,E-commerce
+2022,AI Engineer,"Statistics, R, Data Visualization",Senior,85788,US,25,Cloud Services
+2021,ML Engineer,"Statistics, R, Data Visualization",Mid,75828,Australia,100,E-commerce
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Senior,91092,India,0,E-commerce
+2023,ML Engineer,"SQL, Excel, Power BI",Entry,64331,Germany,25,Cloud Services
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,74905,US,0,Cloud Services
+2020,Data Analyst,"Python, NLP, PyTorch",Senior,79798,Canada,100,Cloud Services
+2022,Software Engineer,"SQL, Excel, Power BI",Mid,92292,US,100,IT
+2023,Data Scientist,"AWS, Azure, Cloud Computing",Entry,149144,India,25,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Entry,125894,US,50,Finance
+2020,Software Engineer,"Python, NLP, PyTorch",Senior,85448,Australia,25,IT
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,68818,UK,50,Finance
+2022,Business Analyst,"Python, SQL, Machine Learning",Mid,98585,Germany,0,IT
+2022,Software Engineer,"Java, Spring Boot, Microservices",Senior,65425,India,75,Finance
+2024,Software Engineer,"Python, NLP, PyTorch",Mid,68081,India,75,Cloud Services
+2020,Business Analyst,"Python, NLP, PyTorch",Mid,138056,UK,25,Healthcare
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Senior,84365,UK,0,IT
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,125463,India,100,Finance
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,117273,India,75,E-commerce
+2023,AI Engineer,"SQL, Excel, Power BI",Mid,99314,India,75,Healthcare
+2023,AI Engineer,"AWS, Azure, Cloud Computing",Mid,143817,Germany,50,Healthcare
+2023,Data Analyst,"SQL, Excel, Power BI",Entry,88610,India,25,Finance
+2024,Data Analyst,"SQL, Excel, Power BI",Entry,129733,India,0,Cloud Services
+2024,Software Engineer,"Java, Spring Boot, Microservices",Senior,89795,Canada,100,Healthcare
+2022,Data Scientist,"SQL, Excel, Power BI",Senior,111770,US,75,Healthcare
+2020,Business Analyst,"Java, Spring Boot, Microservices",Entry,106755,UK,25,Finance
+2021,Data Scientist,"Statistics, R, Data Visualization",Mid,149655,US,0,E-commerce
+2020,AI Engineer,"Python, NLP, PyTorch",Entry,109618,UK,0,Cloud Services
+2020,ML Engineer,"Python, SQL, Machine Learning",Senior,107746,Canada,0,IT
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,131210,India,50,E-commerce
+2023,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,92467,UK,50,Finance
+2020,Software Engineer,"Python, SQL, Machine Learning",Entry,149379,UK,0,Healthcare
+2023,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,87319,US,0,Finance
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Senior,66406,Australia,75,Finance
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,102855,UK,25,IT
+2021,AI Engineer,"Statistics, R, Data Visualization",Senior,148319,Canada,50,Cloud Services
+2023,Data Scientist,"Python, SQL, Machine Learning",Entry,139435,Germany,0,IT
+2021,Software Engineer,"Python, NLP, PyTorch",Mid,69237,Canada,100,IT
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,64515,UK,100,Finance
+2024,Cloud Engineer,"SQL, Excel, Power BI",Mid,114369,Germany,50,Cloud Services
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,122080,Germany,0,IT
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Senior,142555,UK,25,Cloud Services
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,105503,UK,50,Cloud Services
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Entry,107775,Australia,50,IT
+2023,Data Scientist,"Python, SQL, Machine Learning",Senior,94628,Canada,100,Healthcare
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,95172,Germany,25,Cloud Services
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,120707,Australia,25,Finance
+2023,AI Engineer,"SQL, Excel, Power BI",Senior,85696,India,25,Healthcare
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,94172,India,75,Healthcare
+2024,AI Engineer,"Statistics, R, Data Visualization",Entry,128019,UK,0,IT
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Mid,97629,India,25,Healthcare
+2024,AI Engineer,"Python, SQL, Machine Learning",Mid,74492,US,50,Healthcare
+2021,Data Scientist,"Java, Spring Boot, Microservices",Mid,92715,India,75,E-commerce
+2024,Business Analyst,"Java, Spring Boot, Microservices",Senior,88987,UK,75,Healthcare
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,120087,UK,50,IT
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Entry,68815,Australia,50,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,140924,Germany,50,E-commerce
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,122260,UK,25,Finance
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,83765,India,25,Healthcare
+2020,Cloud Engineer,"SQL, Excel, Power BI",Entry,87985,Canada,75,Healthcare
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Senior,96966,Australia,25,Cloud Services
+2020,Cloud Engineer,"SQL, Excel, Power BI",Entry,104538,UK,50,Cloud Services
+2021,Data Scientist,"SQL, Excel, Power BI",Mid,147090,India,50,IT
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,100179,UK,25,Healthcare
+2023,Software Engineer,"Statistics, R, Data Visualization",Entry,143429,UK,100,IT
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,66529,US,25,E-commerce
+2021,Business Analyst,"Python, NLP, PyTorch",Entry,99487,Canada,25,E-commerce
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,130886,US,50,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Senior,91188,Germany,50,Finance
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,92927,US,50,IT
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Entry,87920,UK,25,IT
+2022,Business Analyst,"Statistics, R, Data Visualization",Entry,139351,UK,0,E-commerce
+2024,Cloud Engineer,"SQL, Excel, Power BI",Entry,60981,Australia,25,Finance
+2024,AI Engineer,"Java, Spring Boot, Microservices",Entry,90567,Germany,25,E-commerce
+2023,ML Engineer,"SQL, Excel, Power BI",Entry,136201,Canada,25,Finance
+2021,Software Engineer,"Python, SQL, Machine Learning",Mid,113689,UK,25,IT
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,147194,Canada,50,Healthcare
+2024,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,77073,US,0,IT
+2023,Business Analyst,"SQL, Excel, Power BI",Entry,84449,Australia,25,Healthcare
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,74453,Canada,75,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,62838,US,75,E-commerce
+2021,AI Engineer,"Statistics, R, Data Visualization",Mid,110467,UK,100,IT
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,100657,Germany,75,E-commerce
+2020,AI Engineer,"Statistics, R, Data Visualization",Senior,73936,UK,75,Cloud Services
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Mid,149879,UK,50,E-commerce
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Entry,135647,Australia,25,Cloud Services
+2020,Business Analyst,"Python, NLP, PyTorch",Senior,99890,UK,50,E-commerce
+2022,Software Engineer,"Python, NLP, PyTorch",Senior,128113,Australia,100,Cloud Services
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,89688,UK,100,Healthcare
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,77905,Australia,0,E-commerce
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Entry,63446,US,25,E-commerce
+2021,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,104954,India,50,IT
+2021,Data Analyst,"Python, SQL, Machine Learning",Entry,62923,India,0,Finance
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,109017,UK,0,Healthcare
+2023,ML Engineer,"SQL, Excel, Power BI",Senior,79281,Germany,50,Finance
+2021,Data Analyst,"Java, Spring Boot, Microservices",Entry,107210,US,75,IT
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,148653,Germany,25,Cloud Services
+2020,Software Engineer,"Python, NLP, PyTorch",Mid,92046,Germany,75,E-commerce
+2022,Data Analyst,"Python, SQL, Machine Learning",Senior,72150,UK,75,Cloud Services
+2020,Data Analyst,"AWS, Azure, Cloud Computing",Mid,107085,Canada,50,Healthcare
+2024,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,107747,US,75,E-commerce
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Mid,100382,India,100,Finance
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,143520,Australia,25,Finance
+2022,Data Scientist,"Python, SQL, Machine Learning",Mid,144387,Germany,100,IT
+2022,AI Engineer,"Python, SQL, Machine Learning",Mid,93357,Germany,50,Cloud Services
+2024,Data Analyst,"Java, Spring Boot, Microservices",Entry,77178,Canada,50,E-commerce
+2021,Software Engineer,"SQL, Excel, Power BI",Mid,102243,US,50,E-commerce
+2021,Business Analyst,"Java, Spring Boot, Microservices",Entry,75475,US,75,Healthcare
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,71823,UK,100,E-commerce
+2021,Software Engineer,"Python, SQL, Machine Learning",Entry,61310,Canada,0,IT
+2023,Data Scientist,"Python, NLP, PyTorch",Senior,70819,Australia,0,Healthcare
+2020,ML Engineer,"Java, Spring Boot, Microservices",Mid,105448,Canada,75,Finance
+2024,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,70456,US,50,E-commerce
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Entry,142672,Canada,50,Healthcare
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,121004,US,75,Healthcare
+2020,AI Engineer,"Java, Spring Boot, Microservices",Mid,130961,Australia,100,E-commerce
+2023,AI Engineer,"Python, NLP, PyTorch",Entry,61003,Canada,100,E-commerce
+2020,AI Engineer,"Python, SQL, Machine Learning",Entry,114362,India,0,Cloud Services
+2023,Cloud Engineer,"Python, NLP, PyTorch",Mid,135950,India,25,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Mid,100782,UK,75,Cloud Services
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,142370,Australia,100,Cloud Services
+2021,ML Engineer,"Python, SQL, Machine Learning",Entry,81152,UK,25,Cloud Services
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,149372,UK,25,E-commerce
+2020,Data Scientist,"Python, SQL, Machine Learning",Mid,146344,India,50,IT
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,71379,US,100,Healthcare
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,120766,Canada,75,Finance
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Senior,115748,India,0,Finance
+2023,ML Engineer,"Java, Spring Boot, Microservices",Senior,64484,Germany,100,IT
+2022,Software Engineer,"Python, NLP, PyTorch",Entry,61487,US,25,Healthcare
+2021,Business Analyst,"SQL, Excel, Power BI",Senior,120378,Australia,50,Finance
+2023,Data Analyst,"Python, NLP, PyTorch",Entry,103674,India,75,Cloud Services
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Entry,70035,Germany,100,E-commerce
+2024,Cloud Engineer,"Python, NLP, PyTorch",Mid,95333,US,50,IT
+2024,Data Scientist,"SQL, Excel, Power BI",Senior,118931,US,75,Healthcare
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,62283,US,100,Healthcare
+2021,Cloud Engineer,"SQL, Excel, Power BI",Mid,125421,Australia,50,E-commerce
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Mid,62114,UK,100,Finance
+2021,Cloud Engineer,"Python, NLP, PyTorch",Senior,146467,Germany,25,Finance
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Senior,104238,Australia,25,Cloud Services
+2021,Data Scientist,"Python, NLP, PyTorch",Entry,90172,Germany,50,Cloud Services
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,95925,Germany,25,IT
+2021,Software Engineer,"Java, Spring Boot, Microservices",Mid,144806,Germany,75,Healthcare
+2020,AI Engineer,"SQL, Excel, Power BI",Entry,127505,Australia,25,Healthcare
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,67083,India,100,E-commerce
+2024,ML Engineer,"Java, Spring Boot, Microservices",Senior,134161,India,25,Healthcare
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Mid,72469,India,25,Finance
+2022,AI Engineer,"Statistics, R, Data Visualization",Senior,62548,Australia,50,Healthcare
+2020,Business Analyst,"Python, SQL, Machine Learning",Senior,145000,India,100,Healthcare
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,85375,US,75,Cloud Services
+2022,ML Engineer,"Python, SQL, Machine Learning",Senior,140900,Canada,100,Finance
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,133663,Germany,50,IT
+2020,ML Engineer,"Python, NLP, PyTorch",Mid,79840,India,0,IT
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,141497,UK,50,IT
+2024,Data Scientist,"Python, NLP, PyTorch",Entry,121256,Australia,50,Finance
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,66969,UK,75,IT
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,101856,UK,100,IT
+2023,Cloud Engineer,"SQL, Excel, Power BI",Mid,118934,Canada,0,Cloud Services
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,82248,Germany,50,E-commerce
+2023,Software Engineer,"Java, Spring Boot, Microservices",Senior,88745,US,50,Healthcare
+2024,Business Analyst,"Python, SQL, Machine Learning",Mid,63579,US,25,E-commerce
+2021,ML Engineer,"Python, SQL, Machine Learning",Mid,103915,Germany,25,Cloud Services
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,124360,Germany,0,Cloud Services
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,129869,US,75,IT
+2020,AI Engineer,"SQL, Excel, Power BI",Mid,82297,US,25,Healthcare
+2022,Software Engineer,"Statistics, R, Data Visualization",Senior,68588,Australia,50,Finance
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,96639,Canada,50,Finance
+2024,Software Engineer,"Python, SQL, Machine Learning",Mid,67942,Canada,75,Cloud Services
+2024,Software Engineer,"Java, Spring Boot, Microservices",Entry,81431,UK,75,Healthcare
+2022,Business Analyst,"Java, Spring Boot, Microservices",Entry,132504,Canada,25,Finance
+2020,Software Engineer,"SQL, Excel, Power BI",Mid,103610,Germany,100,IT
+2023,Business Analyst,"Python, SQL, Machine Learning",Entry,149403,US,0,Cloud Services
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,146728,Australia,50,Cloud Services
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Mid,77995,UK,25,Healthcare
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Mid,67861,India,0,Cloud Services
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,66179,Canada,0,IT
+2023,Data Scientist,"AWS, Azure, Cloud Computing",Entry,97616,UK,100,E-commerce
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,132117,Germany,25,Healthcare
+2021,Business Analyst,"Python, NLP, PyTorch",Entry,74019,Germany,100,E-commerce
+2020,AI Engineer,"Statistics, R, Data Visualization",Senior,120654,Canada,100,IT
+2024,AI Engineer,"SQL, Excel, Power BI",Mid,60538,India,50,IT
+2022,Business Analyst,"SQL, Excel, Power BI",Senior,107722,UK,50,Cloud Services
+2023,Software Engineer,"Java, Spring Boot, Microservices",Senior,136702,UK,100,E-commerce
+2022,Business Analyst,"Python, NLP, PyTorch",Senior,127024,Australia,50,IT
+2023,Data Scientist,"Python, NLP, PyTorch",Mid,129867,UK,0,Healthcare
+2024,AI Engineer,"Java, Spring Boot, Microservices",Mid,60608,Canada,25,IT
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Entry,141995,Australia,0,Cloud Services
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,95802,Australia,50,Cloud Services
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,87319,Germany,75,Finance
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,84816,Australia,100,Finance
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,93039,Canada,0,Finance
+2021,Software Engineer,"SQL, Excel, Power BI",Senior,130081,Australia,50,Healthcare
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,104211,Australia,100,E-commerce
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Senior,123995,India,0,IT
+2021,Data Analyst,"Statistics, R, Data Visualization",Entry,84430,India,75,IT
+2021,Business Analyst,"Statistics, R, Data Visualization",Entry,130359,Canada,100,Finance
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,124161,Australia,50,Healthcare
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Mid,133512,Canada,100,Cloud Services
+2024,Data Analyst,"Python, NLP, PyTorch",Entry,145350,Germany,25,Finance
+2021,Data Analyst,"Python, NLP, PyTorch",Mid,96352,Canada,75,E-commerce
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,62144,US,25,E-commerce
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,90900,US,75,E-commerce
+2020,Software Engineer,"Python, SQL, Machine Learning",Mid,76803,Canada,100,Cloud Services
+2023,Cloud Engineer,"SQL, Excel, Power BI",Mid,122689,Germany,100,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Mid,114744,India,75,Healthcare
+2020,Software Engineer,"Statistics, R, Data Visualization",Entry,66737,India,25,Finance
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,66642,India,25,IT
+2024,Business Analyst,"Python, NLP, PyTorch",Mid,60095,UK,50,IT
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Entry,82081,US,75,E-commerce
+2024,Software Engineer,"SQL, Excel, Power BI",Entry,104918,India,0,Finance
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,134848,UK,0,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Entry,133986,India,75,Healthcare
+2023,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,94483,Germany,25,Cloud Services
+2020,Data Scientist,"Java, Spring Boot, Microservices",Mid,89097,Germany,50,IT
+2024,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,108795,US,50,E-commerce
+2023,Data Scientist,"Python, SQL, Machine Learning",Entry,123572,Australia,75,Healthcare
+2020,Business Analyst,"Statistics, R, Data Visualization",Entry,110387,Canada,75,Healthcare
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Entry,79180,US,0,Healthcare
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,97590,Australia,0,Finance
+2022,Data Scientist,"Python, SQL, Machine Learning",Entry,112335,Canada,100,Healthcare
+2022,ML Engineer,"Python, NLP, PyTorch",Senior,64751,Germany,50,Cloud Services
+2020,Business Analyst,"Python, SQL, Machine Learning",Senior,73619,Germany,75,IT
+2024,AI Engineer,"Python, SQL, Machine Learning",Senior,113127,US,50,E-commerce
+2020,Business Analyst,"SQL, Excel, Power BI",Senior,130905,India,50,Cloud Services
+2020,Business Analyst,"Statistics, R, Data Visualization",Mid,65853,Canada,100,E-commerce
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Senior,72174,UK,0,Cloud Services
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,63733,India,25,Healthcare
+2023,Software Engineer,"Statistics, R, Data Visualization",Mid,83740,UK,50,IT
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,130970,UK,75,Finance
+2023,AI Engineer,"Python, SQL, Machine Learning",Mid,118429,Australia,0,IT
+2022,ML Engineer,"Statistics, R, Data Visualization",Entry,134098,Germany,50,Finance
+2023,Cloud Engineer,"SQL, Excel, Power BI",Entry,122662,India,100,Healthcare
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,77875,US,25,IT
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,105595,India,100,Healthcare
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,149546,US,25,Finance
+2022,Data Scientist,"Python, NLP, PyTorch",Entry,118328,Canada,0,Cloud Services
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Mid,147280,India,50,Cloud Services
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,97022,Canada,0,Healthcare
+2020,AI Engineer,"Python, NLP, PyTorch",Mid,89918,Australia,25,IT
+2020,Software Engineer,"Python, NLP, PyTorch",Mid,66313,US,0,Healthcare
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,109343,UK,75,Healthcare
+2020,Software Engineer,"Java, Spring Boot, Microservices",Mid,129471,UK,50,Cloud Services
+2020,Software Engineer,"Python, NLP, PyTorch",Senior,125625,US,25,Cloud Services
+2020,Data Analyst,"Python, SQL, Machine Learning",Entry,98465,UK,50,Cloud Services
+2023,Data Analyst,"SQL, Excel, Power BI",Senior,144067,US,75,E-commerce
+2024,Data Scientist,"Statistics, R, Data Visualization",Mid,90493,UK,75,IT
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,85179,India,75,Healthcare
+2021,Data Scientist,"SQL, Excel, Power BI",Entry,127989,US,50,Healthcare
+2020,ML Engineer,"Statistics, R, Data Visualization",Senior,89361,Germany,0,Cloud Services
+2021,Data Scientist,"Statistics, R, Data Visualization",Entry,123196,India,75,Cloud Services
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,149434,Canada,25,Finance
+2020,Business Analyst,"Python, SQL, Machine Learning",Senior,99594,Canada,75,Healthcare
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,90654,India,25,Cloud Services
+2024,Software Engineer,"Python, NLP, PyTorch",Entry,118156,UK,100,E-commerce
+2023,ML Engineer,"Python, SQL, Machine Learning",Entry,127208,US,25,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Senior,62384,Germany,25,E-commerce
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Mid,123858,US,25,E-commerce
+2020,AI Engineer,"Statistics, R, Data Visualization",Senior,98401,US,75,Finance
+2023,Software Engineer,"SQL, Excel, Power BI",Senior,106242,US,25,Finance
+2020,Software Engineer,"Python, NLP, PyTorch",Senior,100027,Canada,75,Cloud Services
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,113901,Canada,0,Finance
+2022,ML Engineer,"Python, NLP, PyTorch",Mid,102370,US,25,Cloud Services
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,117157,India,0,Healthcare
+2024,AI Engineer,"Python, NLP, PyTorch",Entry,136144,Canada,0,E-commerce
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,137849,Germany,75,IT
+2024,Business Analyst,"Java, Spring Boot, Microservices",Mid,62568,UK,100,Cloud Services
+2022,Data Scientist,"Python, SQL, Machine Learning",Entry,112557,UK,0,E-commerce
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,88967,Canada,100,Healthcare
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,114279,US,75,Healthcare
+2020,Software Engineer,"Java, Spring Boot, Microservices",Mid,103129,Germany,0,IT
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Mid,90128,Germany,75,Healthcare
+2024,Data Scientist,"Statistics, R, Data Visualization",Entry,63312,Australia,25,Finance
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Mid,71894,Canada,0,Finance
+2024,Business Analyst,"SQL, Excel, Power BI",Senior,126674,India,75,E-commerce
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,120756,Germany,0,IT
+2020,Software Engineer,"Statistics, R, Data Visualization",Mid,145618,UK,0,Cloud Services
+2024,AI Engineer,"Python, NLP, PyTorch",Senior,76843,Canada,75,Healthcare
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,119660,Germany,75,Finance
+2022,ML Engineer,"SQL, Excel, Power BI",Mid,109763,US,75,IT
+2024,Data Analyst,"Statistics, R, Data Visualization",Mid,138493,Canada,0,E-commerce
+2024,Software Engineer,"Python, NLP, PyTorch",Entry,141695,Australia,100,Healthcare
+2023,Data Scientist,"Python, SQL, Machine Learning",Entry,122391,India,0,Cloud Services
+2021,Data Scientist,"SQL, Excel, Power BI",Senior,129985,India,75,Healthcare
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,99247,Australia,100,Finance
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,135317,India,0,Finance
+2023,Business Analyst,"Statistics, R, Data Visualization",Entry,75035,Australia,75,IT
+2023,Data Scientist,"SQL, Excel, Power BI",Mid,118167,India,25,IT
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,145541,US,50,E-commerce
+2022,AI Engineer,"Statistics, R, Data Visualization",Entry,147054,UK,100,Healthcare
+2023,Data Analyst,"Java, Spring Boot, Microservices",Mid,84626,Germany,75,E-commerce
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,129211,US,25,IT
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,61569,Germany,75,IT
+2021,Business Analyst,"Python, SQL, Machine Learning",Entry,77693,UK,0,IT
+2020,AI Engineer,"SQL, Excel, Power BI",Mid,146702,Australia,0,E-commerce
+2022,ML Engineer,"Statistics, R, Data Visualization",Entry,112511,India,0,Cloud Services
+2023,Data Analyst,"Statistics, R, Data Visualization",Mid,85128,UK,100,Healthcare
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Senior,131618,US,50,Healthcare
+2023,Data Analyst,"Python, SQL, Machine Learning",Mid,144676,US,100,Healthcare
+2023,Software Engineer,"Python, NLP, PyTorch",Senior,89644,Canada,0,Finance
+2023,Data Scientist,"SQL, Excel, Power BI",Mid,123494,UK,100,E-commerce
+2023,Data Analyst,"Statistics, R, Data Visualization",Mid,94648,Canada,50,E-commerce
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Senior,119908,UK,75,Healthcare
+2024,Business Analyst,"Statistics, R, Data Visualization",Mid,86798,US,0,Healthcare
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Mid,123909,Australia,0,Healthcare
+2024,Data Analyst,"Java, Spring Boot, Microservices",Senior,74648,Australia,75,Finance
+2024,Business Analyst,"Statistics, R, Data Visualization",Senior,95909,Canada,25,Finance
+2024,Cloud Engineer,"Python, SQL, Machine Learning",Entry,144550,US,75,Healthcare
+2024,Software Engineer,"SQL, Excel, Power BI",Entry,75081,UK,25,E-commerce
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,72401,Germany,100,IT
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,137009,UK,25,E-commerce
+2020,ML Engineer,"Python, SQL, Machine Learning",Entry,115966,India,25,Cloud Services
+2024,Data Scientist,"Python, SQL, Machine Learning",Entry,146991,India,100,Finance
+2020,AI Engineer,"Statistics, R, Data Visualization",Entry,144193,UK,0,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,127236,UK,75,Healthcare
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Senior,102339,UK,50,IT
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Entry,99764,US,75,Healthcare
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Senior,82577,UK,100,Healthcare
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,103090,Australia,75,IT
+2023,Data Analyst,"Python, NLP, PyTorch",Mid,77455,Australia,25,Cloud Services
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,73495,India,100,E-commerce
+2022,ML Engineer,"SQL, Excel, Power BI",Senior,98024,Australia,0,Finance
+2023,ML Engineer,"Python, NLP, PyTorch",Mid,90470,Australia,50,Finance
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,94621,UK,50,E-commerce
+2024,AI Engineer,"Statistics, R, Data Visualization",Senior,102587,US,75,Cloud Services
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Mid,89328,Germany,25,Finance
+2023,Cloud Engineer,"SQL, Excel, Power BI",Mid,77017,Germany,100,E-commerce
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,98846,India,100,Finance
+2022,Business Analyst,"Statistics, R, Data Visualization",Entry,116178,Canada,100,Healthcare
+2020,Software Engineer,"Java, Spring Boot, Microservices",Mid,94072,US,0,IT
+2020,Cloud Engineer,"SQL, Excel, Power BI",Mid,98484,UK,0,Cloud Services
+2022,AI Engineer,"Python, NLP, PyTorch",Entry,87702,India,0,IT
+2023,Business Analyst,"Statistics, R, Data Visualization",Senior,83431,Germany,100,Finance
+2024,Data Scientist,"SQL, Excel, Power BI",Entry,93160,US,0,Finance
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,137846,India,0,Cloud Services
+2020,ML Engineer,"Statistics, R, Data Visualization",Entry,121055,India,0,E-commerce
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,124396,Australia,25,IT
+2022,Business Analyst,"Statistics, R, Data Visualization",Entry,68896,Germany,25,Healthcare
+2023,AI Engineer,"Java, Spring Boot, Microservices",Mid,113264,Australia,25,Cloud Services
+2023,Data Analyst,"Python, NLP, PyTorch",Mid,75530,Australia,50,Finance
+2020,Business Analyst,"Python, SQL, Machine Learning",Entry,132920,Germany,50,Cloud Services
+2020,Data Analyst,"Python, SQL, Machine Learning",Mid,96528,US,50,E-commerce
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,110024,Germany,100,Healthcare
+2020,AI Engineer,"Java, Spring Boot, Microservices",Mid,146780,US,25,E-commerce
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Entry,75549,US,100,Finance
+2024,Data Scientist,"Java, Spring Boot, Microservices",Entry,105916,US,25,Cloud Services
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Entry,77836,US,50,Cloud Services
+2022,Business Analyst,"Python, NLP, PyTorch",Senior,146868,UK,75,Healthcare
+2024,ML Engineer,"SQL, Excel, Power BI",Mid,133770,Canada,100,Healthcare
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Entry,114695,US,100,E-commerce
+2023,ML Engineer,"Java, Spring Boot, Microservices",Mid,101256,UK,100,E-commerce
+2021,Software Engineer,"Java, Spring Boot, Microservices",Entry,79630,India,25,E-commerce
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,146274,Australia,25,IT
+2022,Software Engineer,"Python, NLP, PyTorch",Entry,110439,US,50,E-commerce
+2020,Business Analyst,"Statistics, R, Data Visualization",Mid,123406,India,100,Healthcare
+2020,Data Analyst,"Python, NLP, PyTorch",Mid,110278,UK,100,Finance
+2021,ML Engineer,"Python, SQL, Machine Learning",Senior,61594,UK,75,Cloud Services
+2021,AI Engineer,"Python, NLP, PyTorch",Entry,77004,US,0,Cloud Services
+2020,Business Analyst,"SQL, Excel, Power BI",Entry,138716,Canada,75,Cloud Services
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,82846,Germany,50,E-commerce
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,134621,US,25,Finance
+2021,Data Analyst,"Statistics, R, Data Visualization",Entry,135044,Germany,0,Cloud Services
+2022,Data Analyst,"Statistics, R, Data Visualization",Mid,125006,US,50,E-commerce
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,141267,UK,100,IT
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Entry,114457,Australia,50,Healthcare
+2022,Software Engineer,"Python, NLP, PyTorch",Entry,84735,Australia,50,E-commerce
+2022,AI Engineer,"Python, NLP, PyTorch",Mid,141448,US,25,Finance
+2022,Data Scientist,"Java, Spring Boot, Microservices",Senior,128122,India,0,Healthcare
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Senior,134638,India,25,Cloud Services
+2024,ML Engineer,"Statistics, R, Data Visualization",Entry,114264,India,100,E-commerce
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,120875,Germany,50,Finance
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,130690,Germany,0,Healthcare
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,95056,Australia,75,IT
+2021,Cloud Engineer,"SQL, Excel, Power BI",Entry,75056,India,100,IT
+2020,Data Scientist,"Java, Spring Boot, Microservices",Mid,110732,UK,25,E-commerce
+2024,Data Scientist,"Statistics, R, Data Visualization",Mid,92196,Canada,0,Finance
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,97057,Australia,0,E-commerce
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,140830,Canada,25,Cloud Services
+2024,Business Analyst,"Java, Spring Boot, Microservices",Senior,99418,Canada,100,Healthcare
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,115771,India,75,Finance
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,145334,Germany,0,E-commerce
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,78118,Germany,50,IT
+2024,ML Engineer,"SQL, Excel, Power BI",Mid,123008,Canada,25,Finance
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,63939,US,75,E-commerce
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,147826,Canada,25,Cloud Services
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,75892,Canada,25,Cloud Services
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,146599,India,75,Healthcare
+2024,Business Analyst,"Python, NLP, PyTorch",Mid,84622,Canada,75,IT
+2021,AI Engineer,"Python, SQL, Machine Learning",Entry,89035,Germany,75,IT
+2023,Software Engineer,"Statistics, R, Data Visualization",Mid,89090,Canada,25,Cloud Services
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,86213,Australia,25,IT
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Senior,91933,India,50,IT
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Senior,99415,Germany,0,IT
+2023,Software Engineer,"Java, Spring Boot, Microservices",Mid,107913,Australia,75,Cloud Services
+2023,Data Analyst,"Java, Spring Boot, Microservices",Mid,148658,US,50,Cloud Services
+2023,Data Scientist,"Python, NLP, PyTorch",Mid,84135,India,100,Finance
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,85998,Australia,25,Finance
+2020,ML Engineer,"SQL, Excel, Power BI",Senior,102913,Canada,50,Healthcare
+2021,Business Analyst,"SQL, Excel, Power BI",Senior,93258,UK,75,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Mid,149233,Canada,50,E-commerce
+2022,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,107256,Canada,25,E-commerce
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,115024,UK,100,IT
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,126626,Australia,0,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Entry,73654,UK,25,Cloud Services
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,97057,Canada,50,E-commerce
+2020,Data Scientist,"Python, SQL, Machine Learning",Entry,80227,Australia,50,Cloud Services
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Mid,130279,US,0,Cloud Services
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Senior,97738,Germany,0,Cloud Services
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,121459,UK,0,IT
+2020,AI Engineer,"Python, SQL, Machine Learning",Mid,128751,India,75,E-commerce
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Mid,95816,India,75,Cloud Services
+2020,Data Analyst,"SQL, Excel, Power BI",Entry,128314,India,50,Finance
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,72565,India,25,Healthcare
+2024,Data Analyst,"Python, SQL, Machine Learning",Entry,143712,Canada,100,Healthcare
+2023,Business Analyst,"Python, SQL, Machine Learning",Entry,89755,India,75,Finance
+2020,Cloud Engineer,"Python, NLP, PyTorch",Mid,127359,Australia,100,Cloud Services
+2020,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,109294,India,100,Healthcare
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,123438,India,50,IT
+2021,ML Engineer,"Java, Spring Boot, Microservices",Senior,77652,India,25,Healthcare
+2024,AI Engineer,"Python, SQL, Machine Learning",Senior,118300,Canada,100,Finance
+2020,Data Scientist,"Java, Spring Boot, Microservices",Senior,91436,Australia,100,E-commerce
+2024,Data Analyst,"SQL, Excel, Power BI",Senior,64430,UK,0,IT
+2022,ML Engineer,"Python, NLP, PyTorch",Entry,78638,Canada,0,Finance
+2022,AI Engineer,"Statistics, R, Data Visualization",Senior,78449,US,75,IT
+2020,Data Analyst,"Java, Spring Boot, Microservices",Mid,78583,Australia,75,IT
+2022,AI Engineer,"Python, SQL, Machine Learning",Senior,65798,Australia,0,IT
+2023,Data Scientist,"AWS, Azure, Cloud Computing",Mid,124626,Germany,0,IT
+2022,ML Engineer,"SQL, Excel, Power BI",Entry,117811,India,25,Cloud Services
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,135546,Canada,50,E-commerce
+2021,AI Engineer,"Statistics, R, Data Visualization",Mid,88177,India,75,Cloud Services
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Mid,145919,Canada,75,Healthcare
+2022,Cloud Engineer,"Python, SQL, Machine Learning",Mid,133728,Australia,0,Cloud Services
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Senior,113437,India,100,Healthcare
+2020,Software Engineer,"SQL, Excel, Power BI",Mid,126423,India,50,Finance
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,66297,Germany,50,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,127955,UK,75,Finance
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,111251,Australia,0,IT
+2020,ML Engineer,"Java, Spring Boot, Microservices",Mid,144227,UK,25,Healthcare
+2022,Business Analyst,"Statistics, R, Data Visualization",Senior,142296,UK,25,Finance
+2021,Business Analyst,"Statistics, R, Data Visualization",Senior,146070,India,100,E-commerce
+2020,Data Scientist,"Statistics, R, Data Visualization",Senior,98307,Germany,100,E-commerce
+2021,Business Analyst,"Python, NLP, PyTorch",Entry,138566,UK,0,Healthcare
+2020,ML Engineer,"Python, NLP, PyTorch",Mid,105194,India,0,Finance
+2023,Software Engineer,"Java, Spring Boot, Microservices",Senior,133039,UK,50,E-commerce
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Mid,88140,Germany,75,IT
+2020,ML Engineer,"Statistics, R, Data Visualization",Entry,95355,India,25,IT
+2024,ML Engineer,"Java, Spring Boot, Microservices",Entry,89697,UK,25,E-commerce
+2021,Cloud Engineer,"SQL, Excel, Power BI",Mid,108494,Australia,75,E-commerce
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,140364,UK,0,IT
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Entry,80498,Canada,0,Healthcare
+2021,Business Analyst,"Java, Spring Boot, Microservices",Senior,106372,UK,25,IT
+2020,Software Engineer,"Java, Spring Boot, Microservices",Mid,149954,UK,0,Finance
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,68561,UK,75,IT
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,111836,US,100,Cloud Services
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,68201,UK,75,Finance
+2022,AI Engineer,"Java, Spring Boot, Microservices",Senior,112450,Germany,50,Cloud Services
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,77482,Canada,75,Cloud Services
+2024,Business Analyst,"Java, Spring Boot, Microservices",Entry,94506,US,100,E-commerce
+2021,Software Engineer,"Python, NLP, PyTorch",Entry,111843,India,0,Finance
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,106697,India,25,Cloud Services
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,110168,UK,100,Cloud Services
+2020,Data Analyst,"SQL, Excel, Power BI",Senior,64139,India,75,Finance
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Mid,141805,Germany,50,Cloud Services
+2024,Data Analyst,"Java, Spring Boot, Microservices",Entry,85571,Germany,25,Healthcare
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,90502,India,50,Finance
+2020,ML Engineer,"Python, NLP, PyTorch",Senior,143510,Canada,0,IT
+2021,Business Analyst,"Python, NLP, PyTorch",Senior,144231,Germany,75,Finance
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Entry,124719,India,100,Healthcare
+2024,AI Engineer,"Java, Spring Boot, Microservices",Senior,111813,India,75,E-commerce
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,149745,US,25,Cloud Services
+2024,Data Scientist,"Java, Spring Boot, Microservices",Senior,67263,Germany,25,IT
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,90340,UK,25,Healthcare
+2022,ML Engineer,"Java, Spring Boot, Microservices",Entry,132795,India,50,Finance
+2023,ML Engineer,"SQL, Excel, Power BI",Entry,121579,India,100,Healthcare
+2022,Data Analyst,"SQL, Excel, Power BI",Entry,83520,US,0,Finance
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Mid,72325,UK,0,Cloud Services
+2021,Data Scientist,"Python, NLP, PyTorch",Senior,120246,UK,50,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,129270,UK,25,Cloud Services
+2024,Data Scientist,"Python, SQL, Machine Learning",Senior,90003,Germany,25,Healthcare
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,149429,India,0,Finance
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Mid,70681,Germany,100,Healthcare
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Mid,132416,UK,50,E-commerce
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Senior,74983,UK,75,IT
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,61782,India,100,Healthcare
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,67725,India,100,Finance
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Senior,121919,Australia,25,Healthcare
+2024,Data Analyst,"SQL, Excel, Power BI",Entry,104801,Germany,75,Finance
+2023,Software Engineer,"Statistics, R, Data Visualization",Senior,90368,US,75,IT
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Entry,90210,Germany,0,IT
+2024,Business Analyst,"Statistics, R, Data Visualization",Senior,122118,UK,0,IT
+2022,AI Engineer,"SQL, Excel, Power BI",Mid,107076,Germany,75,Finance
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,131594,UK,75,Cloud Services
+2020,Data Scientist,"Python, SQL, Machine Learning",Mid,76767,US,100,IT
+2022,Cloud Engineer,"SQL, Excel, Power BI",Mid,107776,UK,0,E-commerce
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,149894,Australia,100,Finance
+2024,Data Analyst,"Java, Spring Boot, Microservices",Senior,138015,Germany,100,Cloud Services
+2023,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,120355,Australia,75,IT
+2024,Data Scientist,"Java, Spring Boot, Microservices",Senior,141295,Canada,50,IT
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Mid,110535,Australia,100,Healthcare
+2020,Data Analyst,"Python, SQL, Machine Learning",Entry,131790,Australia,75,Healthcare
+2020,Business Analyst,"SQL, Excel, Power BI",Senior,121201,Germany,100,Healthcare
+2020,Cloud Engineer,"SQL, Excel, Power BI",Mid,102404,India,75,IT
+2020,AI Engineer,"Statistics, R, Data Visualization",Senior,64329,Canada,75,IT
+2022,Data Scientist,"Java, Spring Boot, Microservices",Senior,118390,India,50,Cloud Services
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,135549,Canada,0,IT
+2021,Data Analyst,"Python, NLP, PyTorch",Senior,69192,US,25,Finance
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Senior,61667,Australia,50,Cloud Services
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,128243,Canada,25,Cloud Services
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Entry,83554,Australia,25,Healthcare
+2021,Data Analyst,"AWS, Azure, Cloud Computing",Entry,132733,Australia,75,Finance
+2023,AI Engineer,"Python, NLP, PyTorch",Mid,76118,Germany,50,Cloud Services
+2023,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,79498,India,0,Healthcare
+2022,AI Engineer,"Java, Spring Boot, Microservices",Mid,135414,UK,50,Finance
+2022,Business Analyst,"Java, Spring Boot, Microservices",Mid,127385,Canada,100,IT
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Senior,86599,Canada,50,IT
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,110096,India,0,Finance
+2024,AI Engineer,"Python, SQL, Machine Learning",Entry,114155,Australia,25,IT
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,112607,Canada,50,Healthcare
+2024,Data Scientist,"Java, Spring Boot, Microservices",Entry,137015,Australia,50,Healthcare
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,65992,Canada,0,Cloud Services
+2022,Data Analyst,"Python, NLP, PyTorch",Mid,83262,Germany,25,Healthcare
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,120946,India,0,Cloud Services
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,80318,India,100,Finance
+2024,Business Analyst,"Python, NLP, PyTorch",Mid,78486,Canada,100,Cloud Services
+2023,Data Scientist,"Python, NLP, PyTorch",Mid,82578,India,100,E-commerce
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,72325,Australia,0,Finance
+2021,AI Engineer,"Python, NLP, PyTorch",Senior,106274,Australia,0,Healthcare
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Entry,121837,Germany,25,Cloud Services
+2023,Software Engineer,"Java, Spring Boot, Microservices",Senior,92589,Germany,100,E-commerce
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,73843,Australia,50,Cloud Services
+2022,Data Analyst,"Python, NLP, PyTorch",Mid,125452,Australia,0,Cloud Services
+2020,Data Analyst,"Python, NLP, PyTorch",Entry,76410,Germany,75,Finance
+2024,Software Engineer,"SQL, Excel, Power BI",Mid,88496,US,25,IT
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,83977,UK,100,Cloud Services
+2021,AI Engineer,"Python, NLP, PyTorch",Mid,119632,India,0,Finance
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,64892,UK,50,Healthcare
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,112783,Australia,25,E-commerce
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,70288,Germany,75,IT
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,99695,US,25,IT
+2023,Business Analyst,"Java, Spring Boot, Microservices",Senior,82996,Germany,0,Finance
+2024,Data Scientist,"Python, NLP, PyTorch",Mid,81458,Canada,25,E-commerce
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Mid,107203,Canada,25,Healthcare
+2021,AI Engineer,"Python, SQL, Machine Learning",Mid,135268,US,25,IT
+2022,ML Engineer,"Python, NLP, PyTorch",Senior,128778,Germany,100,IT
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Mid,83808,UK,25,E-commerce
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,76655,Australia,75,Finance
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Mid,88313,Australia,0,Healthcare
+2020,Cloud Engineer,"SQL, Excel, Power BI",Entry,85765,Australia,50,IT
+2020,Software Engineer,"SQL, Excel, Power BI",Entry,82981,India,25,IT
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,127345,Germany,25,Finance
+2022,ML Engineer,"Python, NLP, PyTorch",Mid,118269,US,75,Healthcare
+2022,Data Scientist,"Statistics, R, Data Visualization",Mid,115038,India,50,Finance
+2022,Data Analyst,"Statistics, R, Data Visualization",Mid,88785,Canada,75,Finance
+2023,Business Analyst,"SQL, Excel, Power BI",Senior,69933,Canada,100,E-commerce
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,77205,Canada,50,IT
+2023,ML Engineer,"Python, SQL, Machine Learning",Senior,70175,Canada,75,Healthcare
+2020,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,62480,US,0,Healthcare
+2022,ML Engineer,"Statistics, R, Data Visualization",Mid,125338,Canada,25,Finance
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Senior,85656,Canada,75,Healthcare
+2022,Software Engineer,"Python, NLP, PyTorch",Senior,86756,Canada,25,Healthcare
+2022,AI Engineer,"SQL, Excel, Power BI",Mid,91394,Australia,50,Cloud Services
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,115843,India,25,Healthcare
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,75929,Australia,50,IT
+2024,AI Engineer,"Statistics, R, Data Visualization",Senior,85167,US,75,Finance
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,137656,Australia,25,IT
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,138624,US,25,Healthcare
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,60180,Australia,75,Cloud Services
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Senior,116142,Germany,50,E-commerce
+2020,Business Analyst,"Java, Spring Boot, Microservices",Senior,143350,US,0,IT
+2024,Data Analyst,"SQL, Excel, Power BI",Mid,96549,US,100,Cloud Services
+2021,Cloud Engineer,"SQL, Excel, Power BI",Senior,144665,US,50,IT
+2022,Data Scientist,"Statistics, R, Data Visualization",Entry,101935,Germany,0,E-commerce
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,111322,UK,75,IT
+2020,ML Engineer,"Python, NLP, PyTorch",Mid,131139,UK,0,Healthcare
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,120992,UK,0,Finance
+2020,Data Scientist,"SQL, Excel, Power BI",Mid,79098,India,50,Healthcare
+2023,Cloud Engineer,"SQL, Excel, Power BI",Mid,115628,US,25,Healthcare
+2020,Data Analyst,"Java, Spring Boot, Microservices",Senior,124432,Canada,100,Cloud Services
+2020,ML Engineer,"Python, NLP, PyTorch",Entry,129346,India,0,E-commerce
+2020,ML Engineer,"AWS, Azure, Cloud Computing",Entry,135454,Australia,75,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,113539,US,0,Cloud Services
+2022,Cloud Engineer,"SQL, Excel, Power BI",Mid,143675,India,25,E-commerce
+2022,Business Analyst,"Python, SQL, Machine Learning",Entry,134425,UK,0,Finance
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,64068,US,100,Finance
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,144812,India,0,Healthcare
+2023,AI Engineer,"SQL, Excel, Power BI",Senior,118917,UK,0,IT
+2023,Data Scientist,"Java, Spring Boot, Microservices",Senior,135573,Canada,75,Cloud Services
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Mid,74683,Germany,25,Finance
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,70947,Germany,75,Healthcare
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,131007,Australia,50,Cloud Services
+2023,Data Analyst,"Python, SQL, Machine Learning",Mid,113122,US,100,Finance
+2020,Data Scientist,"Python, NLP, PyTorch",Entry,99715,India,50,IT
+2022,AI Engineer,"SQL, Excel, Power BI",Entry,104548,Australia,50,Healthcare
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,71528,Australia,50,E-commerce
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Entry,98901,Australia,100,E-commerce
+2023,ML Engineer,"Statistics, R, Data Visualization",Entry,122650,India,0,Finance
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Senior,130472,India,25,IT
+2020,AI Engineer,"Python, SQL, Machine Learning",Mid,146949,UK,0,Finance
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Mid,80047,Australia,0,Healthcare
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Entry,145344,US,50,E-commerce
+2022,Data Scientist,"Statistics, R, Data Visualization",Entry,148969,India,100,E-commerce
+2021,ML Engineer,"Python, NLP, PyTorch",Entry,126273,UK,25,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Senior,128665,US,50,Healthcare
+2022,AI Engineer,"Java, Spring Boot, Microservices",Entry,146110,Australia,75,Healthcare
+2023,Data Analyst,"SQL, Excel, Power BI",Mid,85795,India,100,Cloud Services
+2021,AI Engineer,"Statistics, R, Data Visualization",Senior,108964,Australia,0,Healthcare
+2022,Business Analyst,"Java, Spring Boot, Microservices",Senior,67216,Australia,0,Cloud Services
+2023,AI Engineer,"AWS, Azure, Cloud Computing",Entry,82514,US,50,E-commerce
+2023,Software Engineer,"Python, NLP, PyTorch",Entry,141783,US,100,Healthcare
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Entry,117418,Canada,100,Cloud Services
+2021,Cloud Engineer,"Python, NLP, PyTorch",Senior,131916,India,75,IT
+2024,Software Engineer,"Python, NLP, PyTorch",Senior,146797,Canada,100,IT
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,68765,US,25,IT
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Mid,78939,Canada,75,Healthcare
+2024,AI Engineer,"Java, Spring Boot, Microservices",Entry,142817,Canada,75,Cloud Services
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Senior,144578,Australia,50,Cloud Services
+2020,ML Engineer,"Statistics, R, Data Visualization",Entry,70104,US,100,E-commerce
+2024,Data Analyst,"Statistics, R, Data Visualization",Senior,147465,Canada,0,E-commerce
+2023,Cloud Engineer,"Python, NLP, PyTorch",Senior,120382,Germany,0,Finance
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Mid,119256,US,75,Cloud Services
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Senior,89362,Canada,75,Finance
+2024,Data Scientist,"Java, Spring Boot, Microservices",Entry,110606,UK,0,E-commerce
+2023,ML Engineer,"Statistics, R, Data Visualization",Entry,78244,Germany,50,Finance
+2024,Data Scientist,"Python, NLP, PyTorch",Senior,124145,Canada,100,Cloud Services
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Entry,61045,UK,25,Finance
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,76438,Canada,75,Healthcare
+2024,Business Analyst,"Java, Spring Boot, Microservices",Mid,124923,India,25,Healthcare
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,136879,Germany,0,Healthcare
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,68831,Germany,75,Cloud Services
+2021,Business Analyst,"Python, SQL, Machine Learning",Mid,80850,UK,50,Cloud Services
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,81748,Australia,50,Finance
+2023,AI Engineer,"Python, SQL, Machine Learning",Senior,110786,Germany,0,Finance
+2023,Data Scientist,"Python, NLP, PyTorch",Senior,102391,US,75,E-commerce
+2024,Data Analyst,"Statistics, R, Data Visualization",Mid,133160,Germany,75,Cloud Services
+2022,Data Scientist,"AWS, Azure, Cloud Computing",Mid,119587,Australia,100,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,115386,Canada,75,E-commerce
+2024,Software Engineer,"Python, SQL, Machine Learning",Mid,94306,India,100,E-commerce
+2023,Data Analyst,"SQL, Excel, Power BI",Senior,102116,Australia,50,Finance
+2021,AI Engineer,"Python, SQL, Machine Learning",Entry,64670,India,0,Finance
+2024,Data Scientist,"Python, SQL, Machine Learning",Entry,132731,Australia,100,Finance
+2022,Software Engineer,"Python, NLP, PyTorch",Entry,115484,US,50,Finance
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Mid,84170,Germany,50,E-commerce
+2020,ML Engineer,"Python, SQL, Machine Learning",Entry,86944,Canada,50,Healthcare
+2021,Business Analyst,"Python, SQL, Machine Learning",Entry,145169,US,0,IT
+2022,Software Engineer,"Python, SQL, Machine Learning",Senior,118036,Australia,50,Finance
+2024,ML Engineer,"Python, NLP, PyTorch",Entry,120860,Canada,50,Finance
+2023,Software Engineer,"SQL, Excel, Power BI",Mid,101218,UK,25,E-commerce
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Mid,137007,Canada,75,Finance
+2024,Software Engineer,"Python, SQL, Machine Learning",Senior,79357,Canada,25,E-commerce
+2023,Business Analyst,"Statistics, R, Data Visualization",Senior,113109,India,100,Finance
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,78341,Australia,75,IT
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,137385,Australia,100,Cloud Services
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Senior,135491,Australia,0,Cloud Services
+2023,Software Engineer,"Java, Spring Boot, Microservices",Mid,149374,UK,100,Cloud Services
+2022,Data Scientist,"Java, Spring Boot, Microservices",Entry,137040,Germany,75,Cloud Services
+2020,Cloud Engineer,"Python, NLP, PyTorch",Mid,144521,UK,75,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,86913,US,0,E-commerce
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,74502,Germany,0,Finance
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Mid,76332,Canada,25,Cloud Services
+2020,Cloud Engineer,"Python, NLP, PyTorch",Entry,83720,Canada,25,Cloud Services
+2020,ML Engineer,"Python, NLP, PyTorch",Entry,90712,Germany,75,Finance
+2024,Business Analyst,"Python, SQL, Machine Learning",Senior,144581,Canada,0,Finance
+2020,ML Engineer,"Python, SQL, Machine Learning",Mid,110260,Canada,75,Healthcare
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,129443,UK,100,E-commerce
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,117760,Canada,100,E-commerce
+2024,Data Analyst,"Python, SQL, Machine Learning",Mid,71140,UK,0,Finance
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,67409,India,100,E-commerce
+2022,Data Analyst,"Python, NLP, PyTorch",Entry,98279,Germany,50,IT
+2024,Data Scientist,"Python, SQL, Machine Learning",Mid,120968,India,25,IT
+2021,Software Engineer,"SQL, Excel, Power BI",Entry,142832,Germany,50,Finance
+2020,Data Scientist,"AWS, Azure, Cloud Computing",Entry,138081,Australia,75,Cloud Services
+2021,Data Scientist,"Python, SQL, Machine Learning",Senior,142657,Australia,100,Healthcare
+2022,Software Engineer,"Python, NLP, PyTorch",Senior,138224,India,0,IT
+2022,AI Engineer,"Python, SQL, Machine Learning",Entry,137200,Australia,25,Cloud Services
+2021,Business Analyst,"Java, Spring Boot, Microservices",Senior,141718,UK,100,IT
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,102846,Australia,0,Cloud Services
+2024,Data Analyst,"Statistics, R, Data Visualization",Entry,95756,Australia,25,IT
+2021,Business Analyst,"Python, SQL, Machine Learning",Entry,140728,Australia,75,E-commerce
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,78777,India,50,Healthcare
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Entry,138578,Germany,75,Healthcare
+2023,Business Analyst,"Statistics, R, Data Visualization",Mid,119195,UK,50,Finance
+2024,ML Engineer,"Python, NLP, PyTorch",Senior,88034,Australia,75,Cloud Services
+2024,AI Engineer,"Python, SQL, Machine Learning",Entry,62982,India,100,Healthcare
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,128798,Australia,0,Finance
+2023,AI Engineer,"Python, NLP, PyTorch",Senior,104116,Australia,100,Cloud Services
+2020,ML Engineer,"SQL, Excel, Power BI",Senior,122990,India,75,IT
+2023,Software Engineer,"Statistics, R, Data Visualization",Mid,80551,UK,75,E-commerce
+2020,Data Scientist,"Java, Spring Boot, Microservices",Entry,97596,Australia,50,Cloud Services
+2023,ML Engineer,"Java, Spring Boot, Microservices",Entry,122452,Australia,75,Cloud Services
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,93854,Germany,75,Cloud Services
+2021,Data Analyst,"Python, NLP, PyTorch",Mid,94281,Australia,75,Finance
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Entry,121219,India,25,E-commerce
+2022,AI Engineer,"Java, Spring Boot, Microservices",Mid,123539,Australia,25,Healthcare
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Senior,129151,Canada,75,IT
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Senior,126200,Canada,0,E-commerce
+2024,Data Scientist,"Python, NLP, PyTorch",Mid,133337,US,25,Healthcare
+2022,Data Analyst,"Java, Spring Boot, Microservices",Mid,67015,UK,75,Cloud Services
+2021,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,68791,Australia,50,Cloud Services
+2022,ML Engineer,"Python, SQL, Machine Learning",Mid,69320,UK,25,Cloud Services
+2023,Data Scientist,"Python, NLP, PyTorch",Senior,99085,UK,75,Healthcare
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Mid,84783,Germany,75,Cloud Services
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Mid,88175,India,0,Cloud Services
+2020,Data Scientist,"SQL, Excel, Power BI",Mid,83927,Germany,0,Cloud Services
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,124119,US,0,Cloud Services
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Entry,63706,Germany,100,Healthcare
+2021,Business Analyst,"SQL, Excel, Power BI",Entry,73575,Germany,50,E-commerce
+2023,Software Engineer,"Statistics, R, Data Visualization",Mid,108068,UK,25,Healthcare
+2023,Software Engineer,"Python, SQL, Machine Learning",Mid,80967,Canada,100,Cloud Services
+2024,AI Engineer,"Java, Spring Boot, Microservices",Senior,63681,Australia,100,Finance
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,75810,US,75,Finance
+2020,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,79412,Germany,75,Finance
+2020,AI Engineer,"Java, Spring Boot, Microservices",Senior,120946,Canada,100,Healthcare
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,118535,Canada,25,Finance
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,85106,Germany,25,Healthcare
+2024,Data Scientist,"Java, Spring Boot, Microservices",Senior,132757,Australia,0,Cloud Services
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,147819,UK,100,Healthcare
+2023,AI Engineer,"Statistics, R, Data Visualization",Mid,94895,India,25,Finance
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,113085,Germany,0,IT
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Senior,126208,UK,50,Finance
+2024,Data Analyst,"SQL, Excel, Power BI",Senior,98060,Australia,100,Finance
+2024,Business Analyst,"Python, SQL, Machine Learning",Entry,67617,Germany,25,Cloud Services
+2023,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,76229,Germany,50,E-commerce
+2024,ML Engineer,"Statistics, R, Data Visualization",Entry,69117,US,75,Cloud Services
+2021,Data Scientist,"Java, Spring Boot, Microservices",Entry,104048,India,75,Healthcare
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,136449,Australia,50,Cloud Services
+2023,ML Engineer,"Python, NLP, PyTorch",Senior,103525,UK,75,E-commerce
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Entry,108469,Australia,0,Finance
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,78299,India,25,Finance
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,70060,Australia,0,Cloud Services
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,94756,US,75,IT
+2020,Software Engineer,"Statistics, R, Data Visualization",Mid,117787,UK,100,IT
+2023,Software Engineer,"AWS, Azure, Cloud Computing",Senior,112305,Australia,100,Healthcare
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Mid,119972,UK,0,IT
+2022,Software Engineer,"SQL, Excel, Power BI",Senior,106304,Germany,0,IT
+2023,Software Engineer,"Java, Spring Boot, Microservices",Mid,134481,India,0,IT
+2022,Software Engineer,"Statistics, R, Data Visualization",Senior,73172,India,50,Healthcare
+2021,Software Engineer,"Python, SQL, Machine Learning",Mid,89158,Australia,75,IT
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,93440,India,25,Healthcare
+2021,Business Analyst,"Python, SQL, Machine Learning",Entry,65895,Germany,75,Cloud Services
+2024,Business Analyst,"AWS, Azure, Cloud Computing",Entry,82006,Germany,0,Healthcare
+2022,AI Engineer,"Statistics, R, Data Visualization",Senior,88137,India,0,Healthcare
+2022,Business Analyst,"Java, Spring Boot, Microservices",Mid,67135,India,50,Cloud Services
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,143078,US,25,Cloud Services
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,133647,UK,50,IT
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Senior,73144,India,25,Cloud Services
+2021,Data Analyst,"SQL, Excel, Power BI",Entry,109947,Canada,100,E-commerce
+2022,Software Engineer,"SQL, Excel, Power BI",Mid,114772,Germany,75,IT
+2023,Business Analyst,"Statistics, R, Data Visualization",Entry,127382,UK,50,E-commerce
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,148126,Australia,0,Finance
+2020,Business Analyst,"Python, NLP, PyTorch",Entry,91222,India,50,Healthcare
+2021,Data Analyst,"Python, NLP, PyTorch",Mid,89881,Australia,75,Cloud Services
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,148189,Canada,50,Finance
+2023,Business Analyst,"Java, Spring Boot, Microservices",Senior,136870,Germany,0,Cloud Services
+2020,AI Engineer,"SQL, Excel, Power BI",Mid,109321,UK,100,Healthcare
+2023,Cloud Engineer,"Python, NLP, PyTorch",Entry,104513,Canada,75,E-commerce
+2022,AI Engineer,"Python, NLP, PyTorch",Senior,85536,Australia,50,E-commerce
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,80199,UK,50,Finance
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,88089,Canada,100,E-commerce
+2023,Business Analyst,"Java, Spring Boot, Microservices",Mid,80185,Canada,100,Finance
+2020,AI Engineer,"Java, Spring Boot, Microservices",Mid,140204,Australia,25,E-commerce
+2024,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,80093,UK,25,Healthcare
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Mid,141114,Australia,25,Finance
+2021,Cloud Engineer,"Python, NLP, PyTorch",Entry,101306,Canada,0,Healthcare
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Entry,139358,India,25,E-commerce
+2020,Business Analyst,"Python, SQL, Machine Learning",Entry,121346,UK,100,Finance
+2020,Software Engineer,"SQL, Excel, Power BI",Entry,128833,Canada,25,IT
+2023,Business Analyst,"Python, NLP, PyTorch",Entry,109896,US,25,E-commerce
+2020,Data Analyst,"SQL, Excel, Power BI",Senior,118938,Australia,0,Healthcare
+2021,Software Engineer,"Java, Spring Boot, Microservices",Senior,61033,UK,100,E-commerce
+2023,Data Analyst,"Python, SQL, Machine Learning",Mid,69132,Australia,100,Healthcare
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,123603,US,0,Cloud Services
+2023,Cloud Engineer,"Python, NLP, PyTorch",Mid,84438,Germany,0,Cloud Services
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,119869,Canada,0,E-commerce
+2024,Data Scientist,"SQL, Excel, Power BI",Mid,149558,India,25,IT
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,100547,Germany,25,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Entry,81999,UK,50,Finance
+2023,AI Engineer,"Python, NLP, PyTorch",Mid,139727,US,50,Finance
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,116858,Germany,25,Healthcare
+2020,ML Engineer,"SQL, Excel, Power BI",Entry,107612,UK,50,Healthcare
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,85092,US,25,IT
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,81245,Australia,75,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Entry,62533,Canada,50,Finance
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,103564,UK,25,E-commerce
+2023,Data Scientist,"Java, Spring Boot, Microservices",Senior,98390,Germany,50,Healthcare
+2022,ML Engineer,"Statistics, R, Data Visualization",Entry,135555,Canada,100,Finance
+2023,Business Analyst,"Java, Spring Boot, Microservices",Mid,113932,UK,0,Finance
+2024,Software Engineer,"Java, Spring Boot, Microservices",Mid,64331,Canada,75,Healthcare
+2024,ML Engineer,"SQL, Excel, Power BI",Mid,97234,Canada,100,IT
+2022,Business Analyst,"Java, Spring Boot, Microservices",Entry,109045,US,0,Cloud Services
+2023,Data Scientist,"Statistics, R, Data Visualization",Entry,139760,Canada,75,IT
+2024,Business Analyst,"Statistics, R, Data Visualization",Senior,132987,Germany,0,IT
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,148282,UK,0,Healthcare
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Entry,97465,US,50,E-commerce
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Mid,148708,Germany,50,Finance
+2022,AI Engineer,"SQL, Excel, Power BI",Senior,70799,Germany,100,Finance
+2022,AI Engineer,"Java, Spring Boot, Microservices",Entry,66205,US,50,E-commerce
+2024,ML Engineer,"Java, Spring Boot, Microservices",Entry,134603,Germany,25,Cloud Services
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,118225,Canada,0,E-commerce
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Entry,118888,Germany,100,E-commerce
+2020,AI Engineer,"Java, Spring Boot, Microservices",Senior,98676,Canada,0,E-commerce
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,70923,Canada,25,Cloud Services
+2022,ML Engineer,"SQL, Excel, Power BI",Entry,60879,Australia,100,IT
+2021,Software Engineer,"Statistics, R, Data Visualization",Mid,69229,Germany,0,Cloud Services
+2020,AI Engineer,"Python, NLP, PyTorch",Senior,128430,UK,0,E-commerce
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,129940,US,75,IT
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,66414,Canada,100,E-commerce
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,84622,Australia,25,Healthcare
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Mid,144534,Germany,50,E-commerce
+2024,Data Scientist,"Python, SQL, Machine Learning",Mid,94483,Canada,75,Healthcare
+2022,Business Analyst,"Java, Spring Boot, Microservices",Entry,68073,UK,100,Healthcare
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,146742,Canada,0,Finance
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Mid,116701,Germany,25,E-commerce
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,143110,US,75,IT
+2021,Software Engineer,"Python, NLP, PyTorch",Entry,104454,Germany,75,Healthcare
+2020,Data Scientist,"Statistics, R, Data Visualization",Entry,93459,UK,75,Cloud Services
+2023,Data Analyst,"Python, NLP, PyTorch",Mid,61534,UK,100,Cloud Services
+2020,Data Analyst,"Java, Spring Boot, Microservices",Mid,107906,US,100,Finance
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,143361,US,0,Finance
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Senior,67974,Canada,75,IT
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Senior,119359,India,75,E-commerce
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Entry,118627,Australia,0,Healthcare
+2024,Business Analyst,"Java, Spring Boot, Microservices",Mid,100465,UK,25,Cloud Services
+2022,Software Engineer,"Python, SQL, Machine Learning",Senior,66565,UK,50,E-commerce
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,114936,UK,25,IT
+2022,AI Engineer,"Java, Spring Boot, Microservices",Senior,121828,Canada,75,Finance
+2021,Data Analyst,"Java, Spring Boot, Microservices",Mid,141530,US,75,IT
+2023,ML Engineer,"Python, NLP, PyTorch",Entry,102226,India,100,IT
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,98082,Germany,75,Cloud Services
+2020,Data Scientist,"SQL, Excel, Power BI",Senior,69147,India,0,IT
+2023,AI Engineer,"Python, SQL, Machine Learning",Entry,107713,US,75,Cloud Services
+2023,Data Scientist,"Statistics, R, Data Visualization",Senior,133385,Australia,75,Cloud Services
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,79479,US,75,Finance
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Mid,132887,Australia,0,Healthcare
+2024,Software Engineer,"Python, SQL, Machine Learning",Senior,102882,India,100,IT
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,105698,UK,25,Healthcare
+2024,Data Scientist,"Statistics, R, Data Visualization",Entry,140052,Canada,100,Finance
+2024,Data Analyst,"Python, SQL, Machine Learning",Mid,134836,Canada,100,Healthcare
+2021,Data Scientist,"Python, SQL, Machine Learning",Mid,74483,UK,50,Cloud Services
+2023,Business Analyst,"Python, NLP, PyTorch",Senior,102095,Australia,0,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,104746,US,50,E-commerce
+2020,Data Scientist,"SQL, Excel, Power BI",Mid,72474,Canada,100,Healthcare
+2021,Data Analyst,"SQL, Excel, Power BI",Mid,104793,UK,25,E-commerce
+2023,AI Engineer,"SQL, Excel, Power BI",Entry,81997,UK,100,IT
+2020,AI Engineer,"Python, NLP, PyTorch",Senior,115475,UK,75,Cloud Services
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,88845,India,25,Cloud Services
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,137245,Canada,100,IT
+2021,Business Analyst,"Python, SQL, Machine Learning",Entry,117906,UK,100,IT
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,126795,US,100,Healthcare
+2023,Data Analyst,"Python, SQL, Machine Learning",Entry,146305,UK,100,Healthcare
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,93438,UK,50,E-commerce
+2023,Cloud Engineer,"SQL, Excel, Power BI",Entry,122358,Australia,25,Finance
+2024,ML Engineer,"Statistics, R, Data Visualization",Mid,106154,India,50,Finance
+2021,Business Analyst,"Java, Spring Boot, Microservices",Senior,108802,UK,75,IT
+2024,Business Analyst,"SQL, Excel, Power BI",Mid,74681,Australia,25,IT
+2023,AI Engineer,"Statistics, R, Data Visualization",Entry,87915,Germany,0,E-commerce
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Entry,62809,UK,100,Finance
+2024,Business Analyst,"SQL, Excel, Power BI",Entry,66136,UK,100,Healthcare
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,65748,India,75,Healthcare
+2020,ML Engineer,"Python, NLP, PyTorch",Senior,98672,UK,100,Cloud Services
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,122738,Australia,50,E-commerce
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,129830,Australia,50,Cloud Services
+2020,ML Engineer,"Python, SQL, Machine Learning",Mid,81210,India,100,Finance
+2021,AI Engineer,"Python, SQL, Machine Learning",Mid,98062,India,0,Cloud Services
+2020,ML Engineer,"Python, SQL, Machine Learning",Entry,118077,UK,50,Cloud Services
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Senior,99458,India,25,E-commerce
+2021,AI Engineer,"SQL, Excel, Power BI",Entry,86121,India,100,E-commerce
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,98817,Australia,50,E-commerce
+2023,Software Engineer,"Python, NLP, PyTorch",Entry,96138,Germany,0,Finance
+2022,ML Engineer,"Python, TensorFlow, Deep Learning",Senior,115578,UK,75,E-commerce
+2023,ML Engineer,"Python, NLP, PyTorch",Entry,138807,Canada,100,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,70624,UK,100,Healthcare
+2022,Data Scientist,"Statistics, R, Data Visualization",Entry,111696,Australia,75,Healthcare
+2022,Business Analyst,"Statistics, R, Data Visualization",Entry,86622,Canada,75,Healthcare
+2022,Data Scientist,"Java, Spring Boot, Microservices",Entry,91599,US,25,E-commerce
+2024,Data Analyst,"Java, Spring Boot, Microservices",Mid,73599,Germany,25,E-commerce
+2020,Software Engineer,"Python, NLP, PyTorch",Mid,70997,India,75,E-commerce
+2024,Cloud Engineer,"Python, SQL, Machine Learning",Senior,112701,Australia,75,Finance
+2021,Business Analyst,"SQL, Excel, Power BI",Mid,68208,US,0,Healthcare
+2020,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,130981,US,75,Cloud Services
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,100161,UK,100,E-commerce
+2024,AI Engineer,"Python, NLP, PyTorch",Entry,60655,Canada,100,Finance
+2024,Software Engineer,"Java, Spring Boot, Microservices",Senior,102311,India,25,E-commerce
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,101150,India,50,Healthcare
+2021,Business Analyst,"Python, SQL, Machine Learning",Senior,91579,Canada,25,IT
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,81959,UK,100,E-commerce
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Mid,137232,Australia,0,Finance
+2021,AI Engineer,"Statistics, R, Data Visualization",Senior,147958,Canada,75,E-commerce
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Senior,68715,India,50,Cloud Services
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,70760,India,100,Healthcare
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,89725,India,75,IT
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,101671,Australia,75,E-commerce
+2020,AI Engineer,"Python, SQL, Machine Learning",Senior,99130,US,25,IT
+2020,Software Engineer,"SQL, Excel, Power BI",Senior,105954,US,100,E-commerce
+2021,Software Engineer,"Java, Spring Boot, Microservices",Mid,75792,Germany,25,Healthcare
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,83784,US,75,Healthcare
+2021,Data Scientist,"Python, NLP, PyTorch",Senior,123727,Australia,100,E-commerce
+2021,Cloud Engineer,"Python, NLP, PyTorch",Senior,90988,Germany,75,IT
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,93951,Germany,100,IT
+2022,AI Engineer,"Python, NLP, PyTorch",Entry,87685,India,100,Cloud Services
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Mid,139060,US,50,Finance
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,119358,US,50,E-commerce
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,69770,Australia,100,Cloud Services
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,112317,UK,25,IT
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Mid,124012,Germany,75,IT
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Senior,72625,India,0,Cloud Services
+2022,Cloud Engineer,"Statistics, R, Data Visualization",Mid,93442,Australia,100,Cloud Services
+2022,AI Engineer,"Python, NLP, PyTorch",Senior,86575,Germany,25,Finance
+2024,Cloud Engineer,"SQL, Excel, Power BI",Mid,124765,Canada,0,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Mid,78031,Australia,25,E-commerce
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,97103,Australia,100,IT
+2024,Data Analyst,"Statistics, R, Data Visualization",Mid,86346,Australia,50,Healthcare
+2022,Cloud Engineer,"SQL, Excel, Power BI",Senior,127820,US,0,Cloud Services
+2021,ML Engineer,"SQL, Excel, Power BI",Senior,73390,India,75,Finance
+2023,AI Engineer,"Java, Spring Boot, Microservices",Senior,82497,UK,25,Healthcare
+2020,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,128049,Australia,0,Cloud Services
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,61983,India,50,Cloud Services
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,114185,India,75,Finance
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,149377,Australia,50,Cloud Services
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,110613,Australia,25,Healthcare
+2020,Business Analyst,"Python, SQL, Machine Learning",Entry,98907,Australia,75,E-commerce
+2024,Data Scientist,"SQL, Excel, Power BI",Mid,146363,Australia,0,Cloud Services
+2021,AI Engineer,"Statistics, R, Data Visualization",Entry,69215,Canada,25,E-commerce
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Mid,73837,Australia,0,Cloud Services
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Entry,84465,Germany,0,Finance
+2022,Data Scientist,"Java, Spring Boot, Microservices",Senior,144807,US,25,Cloud Services
+2022,Software Engineer,"SQL, Excel, Power BI",Senior,82614,US,25,E-commerce
+2022,ML Engineer,"Python, SQL, Machine Learning",Senior,136242,UK,75,Cloud Services
+2024,Cloud Engineer,"Python, NLP, PyTorch",Entry,83567,US,100,E-commerce
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Senior,108407,Germany,25,Healthcare
+2021,Data Analyst,"Python, SQL, Machine Learning",Mid,135791,Canada,75,Finance
+2020,Data Scientist,"Java, Spring Boot, Microservices",Entry,62996,UK,0,Finance
+2020,Business Analyst,"Java, Spring Boot, Microservices",Mid,138215,Australia,25,Healthcare
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Entry,149655,Australia,25,Finance
+2023,Business Analyst,"Statistics, R, Data Visualization",Mid,76950,Australia,0,IT
+2024,Data Analyst,"Python, SQL, Machine Learning",Mid,122321,Canada,50,IT
+2022,Business Analyst,"Python, SQL, Machine Learning",Mid,117494,UK,100,E-commerce
+2023,Business Analyst,"SQL, Excel, Power BI",Senior,96549,Australia,25,Cloud Services
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,110810,UK,25,E-commerce
+2023,Cloud Engineer,"Python, NLP, PyTorch",Entry,132400,India,100,Cloud Services
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,70562,Canada,75,Finance
+2020,Data Analyst,"Java, Spring Boot, Microservices",Mid,66616,Germany,50,Cloud Services
+2024,ML Engineer,"Python, SQL, Machine Learning",Mid,137777,Canada,100,IT
+2024,AI Engineer,"Statistics, R, Data Visualization",Senior,135703,UK,50,Healthcare
+2022,Software Engineer,"SQL, Excel, Power BI",Entry,64834,Australia,25,E-commerce
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,80246,Australia,75,E-commerce
+2020,Data Scientist,"Java, Spring Boot, Microservices",Senior,85384,US,50,Healthcare
+2024,Software Engineer,"Python, NLP, PyTorch",Entry,83939,Australia,100,Cloud Services
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,72640,UK,100,Healthcare
+2022,Software Engineer,"Statistics, R, Data Visualization",Senior,109977,Australia,50,Healthcare
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,60334,India,75,Healthcare
+2020,Business Analyst,"SQL, Excel, Power BI",Senior,143738,UK,0,IT
+2022,Business Analyst,"SQL, Excel, Power BI",Entry,103222,Canada,75,IT
+2020,Software Engineer,"Statistics, R, Data Visualization",Mid,119256,Australia,100,IT
+2021,ML Engineer,"Python, SQL, Machine Learning",Entry,149293,Germany,75,E-commerce
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Mid,105629,India,100,IT
+2022,AI Engineer,"AWS, Azure, Cloud Computing",Senior,105883,Canada,0,Cloud Services
+2020,Data Scientist,"Java, Spring Boot, Microservices",Mid,66058,Canada,25,IT
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,104836,UK,0,Finance
+2022,Cloud Engineer,"Python, NLP, PyTorch",Senior,118365,Canada,75,E-commerce
+2024,AI Engineer,"Java, Spring Boot, Microservices",Entry,146740,UK,100,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,76252,India,25,Healthcare
+2020,Cloud Engineer,"Python, NLP, PyTorch",Senior,136076,Germany,100,Cloud Services
+2022,Cloud Engineer,"Python, SQL, Machine Learning",Entry,91655,US,100,Finance
+2020,Cloud Engineer,"Python, NLP, PyTorch",Mid,65880,US,100,Finance
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Senior,133347,Australia,100,Cloud Services
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Senior,89671,India,0,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,66056,US,100,Finance
+2021,Data Analyst,"SQL, Excel, Power BI",Entry,130764,UK,0,IT
+2022,Cloud Engineer,"SQL, Excel, Power BI",Entry,126539,UK,100,Finance
+2020,Business Analyst,"Python, NLP, PyTorch",Mid,116163,India,100,E-commerce
+2024,Data Analyst,"Java, Spring Boot, Microservices",Senior,149371,Australia,100,Cloud Services
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,113751,US,50,Finance
+2022,Cloud Engineer,"SQL, Excel, Power BI",Senior,96389,India,0,Healthcare
+2023,Cloud Engineer,"Python, NLP, PyTorch",Senior,89169,Germany,75,IT
+2024,ML Engineer,"Python, NLP, PyTorch",Mid,72786,UK,0,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,135326,Germany,50,Finance
+2024,Business Analyst,"Statistics, R, Data Visualization",Mid,147660,Australia,50,Healthcare
+2020,ML Engineer,"Python, NLP, PyTorch",Senior,92186,US,0,Cloud Services
+2024,Data Scientist,"Java, Spring Boot, Microservices",Senior,87016,US,50,IT
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,100943,UK,100,IT
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,145209,India,0,Cloud Services
+2021,ML Engineer,"Python, SQL, Machine Learning",Mid,85692,UK,75,Cloud Services
+2022,Data Scientist,"Python, SQL, Machine Learning",Senior,109431,India,25,Healthcare
+2022,Business Analyst,"Python, NLP, PyTorch",Senior,65855,Australia,0,Healthcare
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Entry,86196,UK,0,Cloud Services
+2020,ML Engineer,"Statistics, R, Data Visualization",Senior,104178,India,50,IT
+2024,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,140321,US,50,Finance
+2023,AI Engineer,"Java, Spring Boot, Microservices",Senior,115413,Australia,25,IT
+2020,Software Engineer,"Python, SQL, Machine Learning",Senior,104134,US,0,Cloud Services
+2022,AI Engineer,"Statistics, R, Data Visualization",Mid,146429,US,50,Healthcare
+2024,Software Engineer,"Python, NLP, PyTorch",Entry,61613,Australia,50,Healthcare
+2020,Data Analyst,"Statistics, R, Data Visualization",Senior,115856,India,50,E-commerce
+2021,Cloud Engineer,"Python, NLP, PyTorch",Entry,75236,India,25,Cloud Services
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,129767,Canada,0,E-commerce
+2021,Software Engineer,"Python, NLP, PyTorch",Senior,141357,India,100,IT
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,113035,Germany,25,E-commerce
+2023,Software Engineer,"SQL, Excel, Power BI",Senior,138211,India,50,IT
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Entry,91141,Canada,50,Finance
+2020,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,76343,Germany,75,E-commerce
+2023,Software Engineer,"Python, NLP, PyTorch",Mid,103528,UK,25,Cloud Services
+2021,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,122244,India,25,Finance
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,128138,UK,50,Healthcare
+2020,Business Analyst,"Statistics, R, Data Visualization",Entry,85672,Canada,25,E-commerce
+2024,AI Engineer,"SQL, Excel, Power BI",Senior,99913,UK,100,Healthcare
+2023,Business Analyst,"Java, Spring Boot, Microservices",Senior,62731,UK,25,IT
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,106367,US,25,IT
+2020,Software Engineer,"AWS, Azure, Cloud Computing",Entry,103123,Australia,100,Healthcare
+2024,Software Engineer,"SQL, Excel, Power BI",Entry,78965,Australia,75,E-commerce
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,112589,Germany,0,Cloud Services
+2024,Business Analyst,"Python, SQL, Machine Learning",Entry,95953,India,0,IT
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,64120,Australia,50,E-commerce
+2022,ML Engineer,"Python, NLP, PyTorch",Senior,62252,Canada,0,Finance
+2022,ML Engineer,"Python, NLP, PyTorch",Senior,88391,Australia,100,Cloud Services
+2023,Data Scientist,"SQL, Excel, Power BI",Entry,147079,US,100,E-commerce
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,82449,US,75,Finance
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,120119,UK,75,Healthcare
+2021,Data Scientist,"Java, Spring Boot, Microservices",Entry,128374,India,0,Finance
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Entry,87382,UK,75,Cloud Services
+2020,Business Analyst,"AWS, Azure, Cloud Computing",Mid,62379,Canada,50,Cloud Services
+2022,Data Analyst,"Python, NLP, PyTorch",Entry,81355,Canada,75,Healthcare
+2024,Software Engineer,"Python, SQL, Machine Learning",Entry,74998,India,25,Cloud Services
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,140758,UK,75,E-commerce
+2024,Software Engineer,"Python, SQL, Machine Learning",Entry,71347,Australia,75,Cloud Services
+2021,Cloud Engineer,"Python, SQL, Machine Learning",Senior,133067,US,0,Cloud Services
+2021,AI Engineer,"Python, NLP, PyTorch",Senior,101717,US,25,IT
+2022,Cloud Engineer,"SQL, Excel, Power BI",Senior,109651,Canada,25,IT
+2022,ML Engineer,"Statistics, R, Data Visualization",Senior,139762,Canada,0,E-commerce
+2022,ML Engineer,"SQL, Excel, Power BI",Senior,114746,UK,75,Cloud Services
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,89103,US,0,Healthcare
+2024,Data Analyst,"Python, NLP, PyTorch",Entry,139553,UK,50,IT
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,85341,US,100,Cloud Services
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,87379,Australia,25,Cloud Services
+2021,ML Engineer,"Python, NLP, PyTorch",Mid,84248,Germany,50,E-commerce
+2024,Business Analyst,"SQL, Excel, Power BI",Entry,101026,US,25,Healthcare
+2023,Software Engineer,"Statistics, R, Data Visualization",Senior,145846,India,75,E-commerce
+2023,AI Engineer,"Python, NLP, PyTorch",Mid,96919,Canada,0,Healthcare
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,135475,India,75,Finance
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,144281,Canada,50,Healthcare
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,125870,Australia,100,Finance
+2021,AI Engineer,"Python, SQL, Machine Learning",Mid,131291,India,25,Cloud Services
+2023,Data Analyst,"Java, Spring Boot, Microservices",Mid,116542,Canada,25,IT
+2023,ML Engineer,"SQL, Excel, Power BI",Mid,134133,UK,25,Cloud Services
+2022,AI Engineer,"Python, NLP, PyTorch",Entry,135215,US,50,Finance
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,145761,Canada,50,Healthcare
+2022,ML Engineer,"Java, Spring Boot, Microservices",Senior,148229,Germany,50,IT
+2022,ML Engineer,"Java, Spring Boot, Microservices",Entry,92803,India,100,Finance
+2020,Data Scientist,"Java, Spring Boot, Microservices",Entry,97325,Australia,75,Cloud Services
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,88968,US,75,Cloud Services
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,72836,Canada,25,Finance
+2022,AI Engineer,"Java, Spring Boot, Microservices",Mid,145495,Australia,75,Finance
+2023,AI Engineer,"Java, Spring Boot, Microservices",Senior,123934,India,50,Healthcare
+2023,AI Engineer,"Statistics, R, Data Visualization",Senior,135508,India,100,IT
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,118564,US,25,Healthcare
+2023,Business Analyst,"SQL, Excel, Power BI",Entry,125237,Australia,50,Healthcare
+2024,Software Engineer,"Statistics, R, Data Visualization",Senior,111340,Canada,75,Finance
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,132149,India,0,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Entry,120916,Germany,100,E-commerce
+2023,AI Engineer,"Statistics, R, Data Visualization",Entry,104410,US,75,Cloud Services
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,131215,UK,100,IT
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,122216,Canada,100,Finance
+2021,Data Analyst,"Python, SQL, Machine Learning",Entry,84403,UK,75,Cloud Services
+2023,Data Scientist,"Java, Spring Boot, Microservices",Senior,118758,US,0,E-commerce
+2023,Software Engineer,"SQL, Excel, Power BI",Mid,76574,Australia,25,Finance
+2022,Business Analyst,"Python, NLP, PyTorch",Entry,87804,Canada,75,Finance
+2021,Business Analyst,"Java, Spring Boot, Microservices",Mid,88291,India,50,Finance
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,109035,Canada,0,IT
+2020,ML Engineer,"Statistics, R, Data Visualization",Mid,91459,Germany,25,Healthcare
+2023,Data Analyst,"Statistics, R, Data Visualization",Entry,107026,Australia,75,E-commerce
+2021,Data Scientist,"Python, SQL, Machine Learning",Senior,128965,Australia,25,IT
+2024,ML Engineer,"SQL, Excel, Power BI",Entry,143506,Australia,75,E-commerce
+2023,AI Engineer,"Python, SQL, Machine Learning",Senior,64315,UK,25,Healthcare
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,102865,Germany,25,Cloud Services
+2021,Software Engineer,"SQL, Excel, Power BI",Mid,145133,US,25,Healthcare
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,73506,Australia,50,E-commerce
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,100069,India,25,E-commerce
+2021,Data Analyst,"Python, NLP, PyTorch",Mid,109566,UK,100,Healthcare
+2024,AI Engineer,"Python, NLP, PyTorch",Entry,93432,Canada,25,IT
+2021,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,97041,UK,50,IT
+2021,Business Analyst,"SQL, Excel, Power BI",Mid,135133,UK,100,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,62019,Australia,0,IT
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Senior,130360,India,25,Healthcare
+2022,Business Analyst,"Java, Spring Boot, Microservices",Entry,97168,India,50,E-commerce
+2021,Software Engineer,"Python, SQL, Machine Learning",Senior,81983,Australia,75,Healthcare
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,63733,Germany,75,Healthcare
+2023,ML Engineer,"SQL, Excel, Power BI",Entry,104910,India,75,Finance
+2020,ML Engineer,"Python, SQL, Machine Learning",Senior,85206,India,75,Finance
+2024,Business Analyst,"Python, SQL, Machine Learning",Mid,75874,India,75,Finance
+2023,Business Analyst,"Statistics, R, Data Visualization",Mid,64023,US,75,Finance
+2024,AI Engineer,"Python, SQL, Machine Learning",Mid,73100,Australia,0,Healthcare
+2024,AI Engineer,"Java, Spring Boot, Microservices",Entry,87302,India,0,Healthcare
+2020,Business Analyst,"Python, NLP, PyTorch",Senior,66819,US,75,Finance
+2024,Software Engineer,"Python, NLP, PyTorch",Entry,71557,Australia,100,E-commerce
+2023,ML Engineer,"Python, NLP, PyTorch",Entry,113243,US,25,Healthcare
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,67006,Germany,50,Cloud Services
+2021,AI Engineer,"Statistics, R, Data Visualization",Senior,127258,UK,100,IT
+2024,Data Scientist,"SQL, Excel, Power BI",Mid,96576,Germany,75,Healthcare
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,85226,Germany,25,Cloud Services
+2021,ML Engineer,"SQL, Excel, Power BI",Senior,77461,Canada,25,E-commerce
+2024,Data Analyst,"SQL, Excel, Power BI",Mid,131447,Germany,25,Cloud Services
+2020,ML Engineer,"Python, NLP, PyTorch",Senior,144195,India,100,Healthcare
+2023,Cloud Engineer,"SQL, Excel, Power BI",Entry,81048,Australia,25,Cloud Services
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,91279,Germany,100,IT
+2023,Data Analyst,"SQL, Excel, Power BI",Entry,119701,Australia,50,Cloud Services
+2020,Software Engineer,"Statistics, R, Data Visualization",Entry,125980,US,75,E-commerce
+2021,AI Engineer,"Java, Spring Boot, Microservices",Senior,79111,US,25,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,109074,US,0,IT
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Mid,122461,Germany,25,E-commerce
+2023,ML Engineer,"SQL, Excel, Power BI",Entry,66177,Canada,100,Finance
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Entry,104140,Canada,100,Finance
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,148081,Canada,75,E-commerce
+2024,Cloud Engineer,"Python, NLP, PyTorch",Mid,134257,Australia,25,Healthcare
+2024,Business Analyst,"Python, NLP, PyTorch",Mid,134833,Germany,75,IT
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Senior,143788,Canada,50,Finance
+2023,Business Analyst,"SQL, Excel, Power BI",Entry,74817,India,75,E-commerce
+2020,Business Analyst,"Java, Spring Boot, Microservices",Senior,133939,India,25,Healthcare
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,108574,UK,25,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,80700,Australia,75,Cloud Services
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,113220,Germany,100,E-commerce
+2021,AI Engineer,"Statistics, R, Data Visualization",Entry,138511,Canada,75,IT
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,97258,UK,100,Finance
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,135057,Australia,25,Cloud Services
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,109972,UK,50,Healthcare
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,92399,US,50,E-commerce
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,79954,Australia,100,Healthcare
+2021,Cloud Engineer,"SQL, Excel, Power BI",Senior,135913,Australia,25,IT
+2024,Software Engineer,"Python, SQL, Machine Learning",Entry,76689,India,50,Cloud Services
+2020,Business Analyst,"Python, NLP, PyTorch",Mid,83300,US,25,Finance
+2023,Data Scientist,"Python, SQL, Machine Learning",Senior,111274,India,100,Finance
+2022,Data Scientist,"Python, SQL, Machine Learning",Mid,110962,US,25,E-commerce
+2022,Data Scientist,"Python, NLP, PyTorch",Mid,133535,UK,50,IT
+2020,Data Analyst,"Statistics, R, Data Visualization",Senior,85504,Australia,25,Finance
+2021,Software Engineer,"Java, Spring Boot, Microservices",Mid,148114,Canada,0,Finance
+2020,ML Engineer,"SQL, Excel, Power BI",Entry,138140,Germany,100,Cloud Services
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,62779,Canada,0,Finance
+2022,ML Engineer,"Python, NLP, PyTorch",Mid,79460,Australia,75,IT
+2024,Data Scientist,"AWS, Azure, Cloud Computing",Senior,110590,Canada,0,IT
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,106851,India,75,Cloud Services
+2022,Data Scientist,"Python, SQL, Machine Learning",Entry,71819,India,75,Healthcare
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Senior,62168,India,100,IT
+2020,Data Analyst,"Python, SQL, Machine Learning",Entry,123150,Australia,25,IT
+2023,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,74725,Australia,75,Healthcare
+2023,Data Scientist,"Java, Spring Boot, Microservices",Mid,140448,US,50,E-commerce
+2020,ML Engineer,"Statistics, R, Data Visualization",Mid,120893,India,0,E-commerce
+2023,Data Scientist,"SQL, Excel, Power BI",Entry,141006,UK,50,IT
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,76647,India,25,Cloud Services
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,141076,US,50,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,149383,Germany,75,Finance
+2023,Cloud Engineer,"Python, NLP, PyTorch",Entry,139325,US,0,Healthcare
+2020,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,133481,UK,0,Cloud Services
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Senior,112892,Germany,50,Cloud Services
+2023,Data Analyst,"SQL, Excel, Power BI",Senior,78675,UK,50,E-commerce
+2024,Software Engineer,"Statistics, R, Data Visualization",Mid,86502,US,100,Cloud Services
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,92250,Canada,0,IT
+2023,ML Engineer,"Python, SQL, Machine Learning",Mid,76140,Germany,100,E-commerce
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,149680,India,75,Healthcare
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Mid,143727,Germany,100,Cloud Services
+2024,Software Engineer,"Python, NLP, PyTorch",Senior,109892,India,0,Healthcare
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Entry,86292,India,25,Finance
+2024,Business Analyst,"Statistics, R, Data Visualization",Entry,77934,India,50,Finance
+2020,Cloud Engineer,"Statistics, R, Data Visualization",Senior,110717,Canada,0,E-commerce
+2023,Data Scientist,"AWS, Azure, Cloud Computing",Senior,116557,US,75,Cloud Services
+2022,Software Engineer,"SQL, Excel, Power BI",Entry,69629,US,50,Healthcare
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,137164,Canada,25,Finance
+2024,Business Analyst,"Python, SQL, Machine Learning",Senior,106125,Australia,25,Healthcare
+2021,Data Analyst,"Statistics, R, Data Visualization",Senior,139847,Canada,25,E-commerce
+2023,AI Engineer,"Statistics, R, Data Visualization",Mid,61313,Australia,25,Finance
+2022,ML Engineer,"Python, NLP, PyTorch",Entry,66034,US,25,IT
+2023,Software Engineer,"Statistics, R, Data Visualization",Senior,72680,Canada,100,E-commerce
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Senior,63309,India,100,Healthcare
+2021,Software Engineer,"Java, Spring Boot, Microservices",Mid,138182,UK,100,Finance
+2020,Software Engineer,"Python, SQL, Machine Learning",Senior,88968,UK,25,Cloud Services
+2020,Software Engineer,"Statistics, R, Data Visualization",Mid,84735,UK,50,E-commerce
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,72011,Germany,100,Finance
+2023,Business Analyst,"Statistics, R, Data Visualization",Senior,115221,UK,100,E-commerce
+2024,Data Analyst,"Java, Spring Boot, Microservices",Mid,81113,Canada,25,Finance
+2022,Business Analyst,"SQL, Excel, Power BI",Entry,118345,Canada,25,IT
+2020,ML Engineer,"Python, SQL, Machine Learning",Mid,98131,Australia,0,Finance
+2020,Business Analyst,"Statistics, R, Data Visualization",Mid,74227,UK,0,Healthcare
+2023,Data Analyst,"SQL, Excel, Power BI",Senior,144021,Australia,100,Finance
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,126161,Germany,25,Healthcare
+2022,Software Engineer,"Java, Spring Boot, Microservices",Entry,63993,Germany,75,Cloud Services
+2024,Data Analyst,"Python, NLP, PyTorch",Mid,109384,Canada,25,Cloud Services
+2023,ML Engineer,"Python, NLP, PyTorch",Mid,140358,Canada,75,Healthcare
+2022,Software Engineer,"Python, NLP, PyTorch",Mid,64698,US,50,Finance
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,136703,Canada,50,E-commerce
+2021,ML Engineer,"Python, NLP, PyTorch",Entry,103839,Canada,0,Finance
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,72215,US,100,IT
+2022,Business Analyst,"SQL, Excel, Power BI",Senior,112839,India,100,Healthcare
+2021,Data Analyst,"SQL, Excel, Power BI",Senior,127594,Australia,50,Finance
+2024,ML Engineer,"Java, Spring Boot, Microservices",Mid,97039,UK,100,Finance
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Senior,140018,UK,25,Cloud Services
+2023,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,78358,UK,100,Cloud Services
+2023,Software Engineer,"Statistics, R, Data Visualization",Mid,71854,US,25,Finance
+2020,Cloud Engineer,"Python, NLP, PyTorch",Mid,72174,India,50,IT
+2021,Software Engineer,"Python, NLP, PyTorch",Senior,109412,India,0,IT
+2020,Data Scientist,"Statistics, R, Data Visualization",Senior,86443,Australia,100,Cloud Services
+2023,AI Engineer,"SQL, Excel, Power BI",Mid,116288,Canada,75,Finance
+2023,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,110554,UK,100,Healthcare
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,72498,Germany,0,Cloud Services
+2024,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,87422,India,75,Finance
+2020,Data Scientist,"AWS, Azure, Cloud Computing",Entry,143810,Canada,25,Healthcare
+2023,ML Engineer,"Python, SQL, Machine Learning",Senior,107507,Canada,50,Cloud Services
+2024,AI Engineer,"Statistics, R, Data Visualization",Mid,120203,India,0,Healthcare
+2020,Business Analyst,"Java, Spring Boot, Microservices",Senior,144175,Australia,0,Cloud Services
+2021,Business Analyst,"Java, Spring Boot, Microservices",Senior,62586,US,25,Cloud Services
+2023,Cloud Engineer,"SQL, Excel, Power BI",Senior,81309,US,0,Finance
+2021,Data Scientist,"Python, NLP, PyTorch",Senior,134715,US,50,E-commerce
+2021,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,122917,Germany,50,Healthcare
+2020,Business Analyst,"Statistics, R, Data Visualization",Senior,112519,Australia,100,IT
+2020,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,138928,US,75,Healthcare
+2022,ML Engineer,"Statistics, R, Data Visualization",Senior,123288,Canada,75,Finance
+2023,AI Engineer,"Java, Spring Boot, Microservices",Senior,120330,Australia,100,Cloud Services
+2024,Data Analyst,"AWS, Azure, Cloud Computing",Entry,60169,Australia,0,IT
+2020,AI Engineer,"AWS, Azure, Cloud Computing",Senior,84804,Canada,25,E-commerce
+2022,Software Engineer,"Statistics, R, Data Visualization",Entry,84196,Canada,75,Finance
+2023,Data Analyst,"Python, SQL, Machine Learning",Entry,119860,UK,25,E-commerce
+2021,Software Engineer,"SQL, Excel, Power BI",Mid,136386,Germany,0,E-commerce
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,118010,UK,100,Cloud Services
+2023,Business Analyst,"Python, NLP, PyTorch",Entry,107615,US,50,IT
+2023,ML Engineer,"Java, Spring Boot, Microservices",Mid,102224,Canada,25,Finance
+2023,AI Engineer,"SQL, Excel, Power BI",Mid,81133,US,50,E-commerce
+2024,ML Engineer,"Python, NLP, PyTorch",Entry,77523,US,100,Cloud Services
+2022,Cloud Engineer,"Python, NLP, PyTorch",Senior,136260,Australia,75,IT
+2023,Business Analyst,"Python, NLP, PyTorch",Mid,128316,UK,75,Cloud Services
+2024,Software Engineer,"AWS, Azure, Cloud Computing",Senior,129820,Germany,100,Finance
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,115288,Canada,100,E-commerce
+2024,Software Engineer,"Python, NLP, PyTorch",Mid,108517,Germany,75,Healthcare
+2023,Software Engineer,"SQL, Excel, Power BI",Mid,87241,Germany,25,Cloud Services
+2020,Business Analyst,"SQL, Excel, Power BI",Entry,109985,Canada,75,Finance
+2022,Business Analyst,"Java, Spring Boot, Microservices",Entry,69292,UK,100,Cloud Services
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,61573,US,100,Finance
+2024,Data Scientist,"SQL, Excel, Power BI",Mid,96611,Germany,0,Finance
+2022,AI Engineer,"Python, NLP, PyTorch",Mid,137763,UK,0,Finance
+2020,Data Scientist,"SQL, Excel, Power BI",Senior,93956,Canada,0,Healthcare
+2021,ML Engineer,"Python, NLP, PyTorch",Senior,142175,India,0,Finance
+2021,Data Scientist,"Python, SQL, Machine Learning",Mid,137258,India,0,Healthcare
+2023,Business Analyst,"Java, Spring Boot, Microservices",Senior,101802,Germany,100,Finance
+2023,Business Analyst,"Python, SQL, Machine Learning",Mid,133643,UK,100,IT
+2022,AI Engineer,"Statistics, R, Data Visualization",Entry,129560,Australia,75,Cloud Services
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,61661,US,75,Healthcare
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,126204,US,25,E-commerce
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,65100,Germany,50,Cloud Services
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,121389,Germany,100,E-commerce
+2024,Software Engineer,"Java, Spring Boot, Microservices",Entry,75692,Canada,0,Healthcare
+2024,ML Engineer,"AWS, Azure, Cloud Computing",Entry,80243,Canada,0,IT
+2021,Software Engineer,"Statistics, R, Data Visualization",Mid,60360,US,25,Healthcare
+2022,AI Engineer,"Python, SQL, Machine Learning",Mid,140497,Australia,25,E-commerce
+2022,Software Engineer,"SQL, Excel, Power BI",Senior,98935,Canada,0,E-commerce
+2021,Software Engineer,"Python, NLP, PyTorch",Entry,86752,Australia,0,E-commerce
+2023,ML Engineer,"Python, NLP, PyTorch",Entry,149312,India,75,E-commerce
+2022,Business Analyst,"Statistics, R, Data Visualization",Mid,66823,UK,75,Finance
+2020,Business Analyst,"Java, Spring Boot, Microservices",Entry,89514,India,75,Cloud Services
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,64933,UK,75,Healthcare
+2023,Software Engineer,"Java, Spring Boot, Microservices",Entry,108721,UK,100,IT
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Senior,138326,India,0,Cloud Services
+2022,ML Engineer,"Java, Spring Boot, Microservices",Mid,104561,Australia,50,IT
+2024,AI Engineer,"SQL, Excel, Power BI",Mid,126008,Australia,100,IT
+2022,Business Analyst,"Java, Spring Boot, Microservices",Mid,128374,UK,50,IT
+2024,Business Analyst,"Java, Spring Boot, Microservices",Senior,96702,Australia,25,IT
+2021,AI Engineer,"Python, SQL, Machine Learning",Entry,82497,India,50,Cloud Services
+2020,ML Engineer,"SQL, Excel, Power BI",Mid,87320,Australia,50,E-commerce
+2021,ML Engineer,"Python, SQL, Machine Learning",Senior,103077,Germany,100,E-commerce
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,73321,Australia,0,E-commerce
+2020,Cloud Engineer,"Python, NLP, PyTorch",Senior,131375,UK,75,Cloud Services
+2024,ML Engineer,"Statistics, R, Data Visualization",Senior,62780,India,50,Healthcare
+2023,Data Analyst,"Java, Spring Boot, Microservices",Mid,81539,India,100,E-commerce
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Senior,143195,Canada,0,Healthcare
+2023,Software Engineer,"Statistics, R, Data Visualization",Senior,99322,Germany,75,Healthcare
+2021,Data Scientist,"Python, NLP, PyTorch",Entry,127953,India,100,E-commerce
+2020,Business Analyst,"Statistics, R, Data Visualization",Senior,74989,US,25,E-commerce
+2020,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,119168,India,50,Cloud Services
+2020,ML Engineer,"SQL, Excel, Power BI",Entry,140565,US,25,E-commerce
+2020,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,123626,Australia,100,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,101268,Australia,50,IT
+2022,Data Scientist,"SQL, Excel, Power BI",Entry,113557,UK,50,Finance
+2023,Cloud Engineer,"Python, NLP, PyTorch",Entry,70281,UK,25,Cloud Services
+2022,ML Engineer,"Java, Spring Boot, Microservices",Entry,129409,Germany,50,Healthcare
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,106137,US,25,Cloud Services
+2023,Cloud Engineer,"Python, NLP, PyTorch",Senior,103850,Australia,75,Finance
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,121258,Australia,0,IT
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,96839,India,75,Healthcare
+2022,Software Engineer,"AWS, Azure, Cloud Computing",Senior,93210,UK,25,Finance
+2020,ML Engineer,"Java, Spring Boot, Microservices",Senior,73437,Australia,100,Cloud Services
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Mid,133295,India,75,E-commerce
+2023,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,141523,US,100,IT
+2020,Software Engineer,"Java, Spring Boot, Microservices",Mid,111877,Canada,75,Healthcare
+2024,AI Engineer,"AWS, Azure, Cloud Computing",Entry,149689,Australia,0,IT
+2020,Data Analyst,"Python, NLP, PyTorch",Senior,95786,Australia,100,E-commerce
+2023,Data Analyst,"Statistics, R, Data Visualization",Entry,127947,US,75,Finance
+2021,AI Engineer,"Java, Spring Boot, Microservices",Senior,145489,US,100,Finance
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Senior,100682,US,100,E-commerce
+2023,AI Engineer,"AWS, Azure, Cloud Computing",Mid,137778,US,50,IT
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,64431,Germany,50,Healthcare
+2023,Data Analyst,"Python, SQL, Machine Learning",Senior,67091,Australia,75,Finance
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,148951,India,0,Finance
+2021,ML Engineer,"Python, NLP, PyTorch",Entry,64986,UK,100,Finance
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,81856,India,100,E-commerce
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Mid,91279,Germany,50,IT
+2022,AI Engineer,"Python, SQL, Machine Learning",Entry,68758,India,25,Finance
+2024,Data Scientist,"Statistics, R, Data Visualization",Entry,70138,US,100,IT
+2023,AI Engineer,"Python, SQL, Machine Learning",Entry,124160,Canada,75,Healthcare
+2022,Business Analyst,"AWS, Azure, Cloud Computing",Mid,134931,India,75,Healthcare
+2021,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,98956,UK,100,Healthcare
+2023,ML Engineer,"Java, Spring Boot, Microservices",Mid,71961,UK,50,E-commerce
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,103339,Germany,50,Healthcare
+2023,Software Engineer,"Statistics, R, Data Visualization",Senior,141091,Canada,75,Cloud Services
+2021,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,62164,Australia,0,E-commerce
+2023,Data Analyst,"Python, NLP, PyTorch",Entry,74671,UK,0,E-commerce
+2020,Data Analyst,"Java, Spring Boot, Microservices",Senior,144611,Canada,100,Healthcare
+2021,Data Analyst,"Java, Spring Boot, Microservices",Mid,91518,Australia,50,Cloud Services
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,137513,India,75,E-commerce
+2024,AI Engineer,"SQL, Excel, Power BI",Senior,88546,Germany,100,Healthcare
+2022,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,117256,Germany,0,Healthcare
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,96442,Germany,0,Cloud Services
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,79592,Germany,25,IT
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,87294,India,0,E-commerce
+2020,Cloud Engineer,"SQL, Excel, Power BI",Senior,140205,UK,0,Finance
+2022,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,108411,Canada,0,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Entry,82321,Canada,100,IT
+2023,Cloud Engineer,"SQL, Excel, Power BI",Entry,87874,Australia,25,Finance
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,148001,Australia,75,Healthcare
+2024,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,87247,US,75,IT
+2021,Software Engineer,"AWS, Azure, Cloud Computing",Senior,120746,Australia,50,Healthcare
+2023,ML Engineer,"Python, NLP, PyTorch",Mid,149095,Canada,50,IT
+2023,Data Scientist,"Python, SQL, Machine Learning",Senior,67432,India,100,E-commerce
+2024,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,63026,Australia,100,Finance
+2021,Business Analyst,"SQL, Excel, Power BI",Mid,110698,Australia,0,Finance
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,114725,US,0,Finance
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,116407,Canada,25,Cloud Services
+2021,Cloud Engineer,"SQL, Excel, Power BI",Entry,130987,Germany,50,Finance
+2024,Business Analyst,"Python, NLP, PyTorch",Mid,63759,Germany,75,E-commerce
+2022,Data Analyst,"Python, SQL, Machine Learning",Entry,71225,Germany,100,Healthcare
+2023,Data Analyst,"Statistics, R, Data Visualization",Senior,67046,Germany,50,Finance
+2024,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,107744,India,25,IT
+2020,Data Scientist,"Python, NLP, PyTorch",Mid,133752,Canada,25,Cloud Services
+2021,Software Engineer,"Python, NLP, PyTorch",Mid,64819,Australia,50,Finance
+2024,ML Engineer,"Python, SQL, Machine Learning",Mid,63467,Germany,50,IT
+2021,Software Engineer,"Java, Spring Boot, Microservices",Senior,139482,US,25,E-commerce
+2024,ML Engineer,"Statistics, R, Data Visualization",Entry,126223,UK,0,Healthcare
+2020,Data Scientist,"Python, SQL, Machine Learning",Entry,70111,UK,0,IT
+2021,Data Analyst,"Python, NLP, PyTorch",Mid,81786,Germany,100,E-commerce
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,146196,Canada,100,Finance
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,146423,UK,50,Cloud Services
+2023,AI Engineer,"Python, SQL, Machine Learning",Senior,103397,India,75,Finance
+2024,Business Analyst,"Statistics, R, Data Visualization",Senior,114826,Germany,25,Cloud Services
+2023,AI Engineer,"SQL, Excel, Power BI",Senior,101836,Germany,100,Finance
+2021,Business Analyst,"AWS, Azure, Cloud Computing",Entry,108170,Australia,75,Cloud Services
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,99304,US,75,Finance
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,124384,India,100,Healthcare
+2024,Data Analyst,"Java, Spring Boot, Microservices",Entry,126290,Canada,0,Finance
+2023,AI Engineer,"Statistics, R, Data Visualization",Mid,122601,Canada,100,Healthcare
+2023,ML Engineer,"AWS, Azure, Cloud Computing",Entry,94424,UK,100,E-commerce
+2021,Data Analyst,"SQL, Excel, Power BI",Entry,92918,India,100,IT
+2022,Data Scientist,"SQL, Excel, Power BI",Mid,70698,Australia,100,IT
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,67526,Germany,0,Finance
+2020,Business Analyst,"Java, Spring Boot, Microservices",Mid,146877,Germany,0,E-commerce
+2021,Data Scientist,"Java, Spring Boot, Microservices",Senior,133134,Germany,50,E-commerce
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Senior,95747,Germany,100,E-commerce
+2021,AI Engineer,"Java, Spring Boot, Microservices",Entry,125523,US,100,E-commerce
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,89162,Germany,75,IT
+2024,AI Engineer,"Python, SQL, Machine Learning",Entry,139909,Australia,50,Finance
+2020,Cloud Engineer,"SQL, Excel, Power BI",Mid,90655,UK,25,Healthcare
+2024,Data Analyst,"Python, SQL, Machine Learning",Senior,108282,Germany,25,E-commerce
+2024,ML Engineer,"Java, Spring Boot, Microservices",Senior,149311,Germany,100,Finance
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Mid,60701,US,25,Cloud Services
+2021,Data Analyst,"Java, Spring Boot, Microservices",Entry,132416,US,100,IT
+2020,Cloud Engineer,"Python, NLP, PyTorch",Entry,129194,Australia,0,E-commerce
+2023,Data Scientist,"Python, NLP, PyTorch",Senior,65047,Australia,0,E-commerce
+2024,ML Engineer,"Statistics, R, Data Visualization",Senior,81939,UK,50,IT
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Mid,94833,Canada,75,E-commerce
+2022,AI Engineer,"Python, NLP, PyTorch",Entry,101486,US,50,IT
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,135205,Germany,100,Cloud Services
+2022,ML Engineer,"AWS, Azure, Cloud Computing",Mid,102365,Germany,100,E-commerce
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,125694,Germany,50,IT
+2021,Data Scientist,"Python, NLP, PyTorch",Entry,96039,India,25,Cloud Services
+2024,AI Engineer,"Python, NLP, PyTorch",Senior,63126,India,50,IT
+2024,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,112174,Canada,25,Cloud Services
+2023,Data Analyst,"Python, SQL, Machine Learning",Mid,84340,Germany,100,Healthcare
+2020,Business Analyst,"Python, NLP, PyTorch",Senior,114095,UK,100,Healthcare
+2021,Data Analyst,"Java, Spring Boot, Microservices",Senior,149153,Australia,75,E-commerce
+2024,Software Engineer,"Python, SQL, Machine Learning",Senior,69539,UK,100,IT
+2024,Cloud Engineer,"Python, SQL, Machine Learning",Senior,136105,Germany,100,Healthcare
+2023,Data Scientist,"Python, SQL, Machine Learning",Senior,68998,US,25,Cloud Services
+2020,Data Analyst,"Java, Spring Boot, Microservices",Senior,135277,Canada,100,E-commerce
+2021,AI Engineer,"Java, Spring Boot, Microservices",Mid,65424,UK,50,Healthcare
+2020,Data Analyst,"Statistics, R, Data Visualization",Senior,111291,Germany,50,Cloud Services
+2021,AI Engineer,"Python, NLP, PyTorch",Senior,111083,India,75,Cloud Services
+2024,Cloud Engineer,"Statistics, R, Data Visualization",Senior,109246,Germany,75,Healthcare
+2023,Cloud Engineer,"Statistics, R, Data Visualization",Entry,114186,UK,75,IT
+2023,Software Engineer,"Java, Spring Boot, Microservices",Mid,115944,Australia,25,E-commerce
+2020,Software Engineer,"Statistics, R, Data Visualization",Senior,75768,Australia,75,Cloud Services
+2021,Data Analyst,"Java, Spring Boot, Microservices",Mid,91847,Australia,0,Healthcare
+2024,Business Analyst,"Java, Spring Boot, Microservices",Senior,84764,Germany,100,IT
+2023,Cloud Engineer,"Python, SQL, Machine Learning",Senior,108437,Canada,100,Cloud Services
+2020,Software Engineer,"Python, SQL, Machine Learning",Senior,72136,Canada,75,Finance
+2023,Business Analyst,"AWS, Azure, Cloud Computing",Senior,95830,US,75,Cloud Services
+2023,Data Analyst,"Java, Spring Boot, Microservices",Entry,94918,US,100,IT
+2021,Business Analyst,"Java, Spring Boot, Microservices",Entry,79574,US,100,Healthcare
+2021,Cloud Engineer,"Python, NLP, PyTorch",Entry,102196,India,100,E-commerce
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Entry,146722,UK,100,Cloud Services
+2021,Cloud Engineer,"Statistics, R, Data Visualization",Mid,133775,US,75,Cloud Services
+2023,Software Engineer,"SQL, Excel, Power BI",Entry,73702,Australia,100,IT
+2023,Data Analyst,"SQL, Excel, Power BI",Mid,135268,India,100,Cloud Services
+2021,Data Scientist,"AWS, Azure, Cloud Computing",Senior,118975,India,0,Finance
+2021,Software Engineer,"Java, Spring Boot, Microservices",Senior,85654,India,100,E-commerce
+2020,Business Analyst,"SQL, Excel, Power BI",Senior,89240,Australia,25,Healthcare
+2022,Data Analyst,"Statistics, R, Data Visualization",Senior,76049,Germany,0,Cloud Services
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Mid,129496,UK,75,E-commerce
+2023,Business Analyst,"Python, SQL, Machine Learning",Entry,123070,Canada,0,IT
+2023,Data Analyst,"SQL, Excel, Power BI",Senior,149774,UK,75,IT
+2024,Data Analyst,"Statistics, R, Data Visualization",Entry,122084,Australia,0,Finance
+2020,Data Scientist,"SQL, Excel, Power BI",Entry,141278,UK,25,Healthcare
+2020,Business Analyst,"Python, NLP, PyTorch",Entry,80822,Germany,0,Finance
+2023,Business Analyst,"Statistics, R, Data Visualization",Entry,68935,US,75,Finance
+2021,Data Scientist,"Java, Spring Boot, Microservices",Mid,97264,Australia,50,Healthcare
+2020,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,149943,US,25,Cloud Services
+2021,Software Engineer,"Java, Spring Boot, Microservices",Senior,87468,Germany,0,Healthcare
+2023,ML Engineer,"Python, SQL, Machine Learning",Entry,76583,Australia,50,Cloud Services
+2022,Data Analyst,"SQL, Excel, Power BI",Entry,92635,Germany,100,IT
+2021,ML Engineer,"SQL, Excel, Power BI",Mid,77751,India,100,IT
+2020,AI Engineer,"Python, SQL, Machine Learning",Mid,95948,India,0,E-commerce
+2023,ML Engineer,"Java, Spring Boot, Microservices",Entry,103101,Germany,75,Cloud Services
+2024,Data Scientist,"Statistics, R, Data Visualization",Mid,144543,Germany,50,Finance
+2021,Data Scientist,"Statistics, R, Data Visualization",Entry,88220,UK,100,E-commerce
+2023,Data Analyst,"Python, NLP, PyTorch",Senior,141270,Canada,25,E-commerce
+2023,Business Analyst,"Python, NLP, PyTorch",Entry,98684,Canada,100,Healthcare
+2021,ML Engineer,"AWS, Azure, Cloud Computing",Mid,131977,US,0,Finance
+2024,Data Analyst,"Python, SQL, Machine Learning",Mid,120723,Germany,100,Healthcare
+2022,Data Analyst,"AWS, Azure, Cloud Computing",Mid,72430,Canada,75,Finance
+2023,ML Engineer,"Python, SQL, Machine Learning",Senior,66370,US,50,IT
+2020,Business Analyst,"Java, Spring Boot, Microservices",Entry,133314,Canada,100,Finance
+2022,ML Engineer,"SQL, Excel, Power BI",Entry,149670,Australia,0,Finance
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,110735,Australia,75,IT
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,126463,US,100,Healthcare
+2023,Data Scientist,"Python, NLP, PyTorch",Entry,66640,Australia,0,E-commerce
+2021,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,71587,India,0,Finance
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,135762,US,25,Cloud Services
+2023,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,64047,US,50,E-commerce
+2023,Data Analyst,"Python, NLP, PyTorch",Senior,112374,US,25,IT
+2021,Software Engineer,"Statistics, R, Data Visualization",Entry,84879,Germany,0,Healthcare
+2021,ML Engineer,"Statistics, R, Data Visualization",Senior,119822,Canada,50,E-commerce
+2023,Data Analyst,"Python, SQL, Machine Learning",Mid,110705,Australia,25,E-commerce
+2024,ML Engineer,"Python, SQL, Machine Learning",Mid,112739,UK,75,Finance
+2022,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,71969,US,25,Healthcare
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Entry,103357,UK,25,Finance
+2022,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,149830,UK,75,Finance
+2023,Business Analyst,"SQL, Excel, Power BI",Mid,113637,Canada,75,Finance
+2021,Business Analyst,"Statistics, R, Data Visualization",Entry,140911,US,0,Healthcare
+2023,ML Engineer,"Statistics, R, Data Visualization",Senior,87884,UK,50,E-commerce
+2020,Software Engineer,"Java, Spring Boot, Microservices",Senior,81419,India,0,E-commerce
+2021,AI Engineer,"Java, Spring Boot, Microservices",Senior,68533,Germany,75,Healthcare
+2022,AI Engineer,"Java, Spring Boot, Microservices",Entry,81431,Australia,75,Healthcare
+2023,AI Engineer,"Python, NLP, PyTorch",Entry,104191,Australia,75,Cloud Services
+2024,AI Engineer,"SQL, Excel, Power BI",Mid,105729,UK,25,Cloud Services
+2022,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,94946,US,100,E-commerce
+2024,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,76398,Australia,25,Finance
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,116139,Germany,100,Healthcare
+2024,Software Engineer,"Statistics, R, Data Visualization",Entry,117530,Germany,25,Healthcare
+2023,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,112531,Canada,100,E-commerce
+2024,Business Analyst,"Python, SQL, Machine Learning",Mid,75836,Canada,100,Finance
+2022,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,99800,Australia,75,E-commerce
+2020,ML Engineer,"Java, Spring Boot, Microservices",Entry,114963,US,100,IT
+2021,AI Engineer,"Java, Spring Boot, Microservices",Entry,138613,UK,75,E-commerce
+2023,Data Analyst,"Python, NLP, PyTorch",Entry,109295,Canada,50,Cloud Services
+2021,Data Scientist,"Python, NLP, PyTorch",Senior,126744,Germany,25,IT
+2023,AI Engineer,"Java, Spring Boot, Microservices",Entry,144015,Canada,100,Healthcare
+2021,Software Engineer,"SQL, Excel, Power BI",Senior,68138,Australia,25,Healthcare
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Entry,135697,Canada,0,Finance
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,135435,Canada,0,Healthcare
+2024,Data Scientist,"Statistics, R, Data Visualization",Senior,118675,Australia,75,Finance
+2022,Data Scientist,"Statistics, R, Data Visualization",Senior,109402,UK,25,E-commerce
+2020,Cloud Engineer,"Python, SQL, Machine Learning",Mid,109198,Germany,50,Cloud Services
+2021,ML Engineer,"Java, Spring Boot, Microservices",Mid,148716,Canada,25,Healthcare
+2022,Data Analyst,"SQL, Excel, Power BI",Senior,117931,Australia,50,E-commerce
+2024,Software Engineer,"Statistics, R, Data Visualization",Entry,82481,Australia,50,Finance
+2021,Business Analyst,"Python, SQL, Machine Learning",Mid,65487,UK,50,IT
+2022,ML Engineer,"Java, Spring Boot, Microservices",Mid,98179,UK,100,IT
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,121439,UK,50,E-commerce
+2023,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,91843,Germany,0,Healthcare
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,80936,UK,50,Finance
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Mid,85384,Canada,50,E-commerce
+2020,Data Scientist,"Python, NLP, PyTorch",Mid,119707,Canada,75,Finance
+2023,Data Analyst,"Python, NLP, PyTorch",Senior,139504,UK,50,Cloud Services
+2022,Cloud Engineer,"Python, SQL, Machine Learning",Entry,146638,India,0,Healthcare
+2022,Software Engineer,"Java, Spring Boot, Microservices",Mid,124146,Australia,100,Healthcare
+2023,Data Analyst,"SQL, Excel, Power BI",Entry,137479,India,50,Cloud Services
+2020,ML Engineer,"SQL, Excel, Power BI",Mid,87931,US,0,Healthcare
+2021,ML Engineer,"Statistics, R, Data Visualization",Mid,110183,Australia,25,IT
+2024,Business Analyst,"Python, NLP, PyTorch",Senior,71702,Canada,75,Finance
+2020,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,83366,US,75,Finance
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,91179,India,100,Healthcare
+2022,Data Scientist,"Python, NLP, PyTorch",Senior,123965,UK,0,E-commerce
+2022,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,72995,Australia,100,E-commerce
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,101320,Canada,100,E-commerce
+2024,Business Analyst,"Python, NLP, PyTorch",Entry,118304,India,100,Cloud Services
+2022,Data Scientist,"SQL, Excel, Power BI",Entry,60899,UK,50,IT
+2022,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,79564,Germany,75,IT
+2021,AI Engineer,"Python, SQL, Machine Learning",Senior,72366,US,50,E-commerce
+2020,Data Analyst,"Python, SQL, Machine Learning",Mid,98574,India,100,Cloud Services
+2023,Data Analyst,"Python, NLP, PyTorch",Entry,96251,Germany,50,Cloud Services
+2023,Business Analyst,"SQL, Excel, Power BI",Entry,126318,UK,25,Cloud Services
+2020,AI Engineer,"Java, Spring Boot, Microservices",Senior,128983,Canada,0,E-commerce
+2021,Data Scientist,"Python, SQL, Machine Learning",Entry,113843,India,50,E-commerce
+2022,Software Engineer,"Python, SQL, Machine Learning",Senior,92613,UK,100,Healthcare
+2023,Business Analyst,"Statistics, R, Data Visualization",Mid,86016,Canada,75,Healthcare
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,84358,Germany,50,Cloud Services
+2021,AI Engineer,"AWS, Azure, Cloud Computing",Entry,106088,Germany,50,IT
+2023,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,144877,Australia,50,Cloud Services
+2024,AI Engineer,"SQL, Excel, Power BI",Entry,108126,Germany,25,Healthcare
+2020,Data Analyst,"Python, NLP, PyTorch",Mid,125252,US,0,IT
+2024,Software Engineer,"Python, SQL, Machine Learning",Mid,61388,Canada,100,Healthcare
+2020,Data Scientist,"Statistics, R, Data Visualization",Entry,108055,Australia,75,Cloud Services
+2021,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,94160,Australia,100,Cloud Services
+2022,Business Analyst,"Python, NLP, PyTorch",Senior,116570,Canada,100,Healthcare
+2022,Data Analyst,"Python, SQL, Machine Learning",Senior,113125,US,0,Cloud Services
+2024,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,139054,Australia,50,IT
+2022,Data Analyst,"Python, NLP, PyTorch",Entry,110039,Canada,0,IT
+2020,Data Analyst,"Python, SQL, Machine Learning",Entry,143200,Canada,75,Healthcare
+2020,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,64806,Canada,0,Cloud Services
+2023,AI Engineer,"Statistics, R, Data Visualization",Entry,84678,UK,100,Cloud Services
+2020,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,71775,UK,25,Cloud Services
+2023,Data Analyst,"AWS, Azure, Cloud Computing",Entry,79190,US,25,Healthcare
+2022,Cloud Engineer,"Python, SQL, Machine Learning",Mid,120467,UK,50,Finance
+2023,Software Engineer,"Python, SQL, Machine Learning",Mid,88832,Canada,25,Healthcare
+2023,Software Engineer,"SQL, Excel, Power BI",Senior,115077,Canada,100,Healthcare
+2023,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,88193,India,25,Healthcare
+2020,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,135784,Australia,0,E-commerce
+2022,Cloud Engineer,"SQL, Excel, Power BI",Senior,79940,India,100,E-commerce
+2021,Business Analyst,"SQL, Excel, Power BI",Senior,84129,Australia,0,Healthcare
+2024,Data Analyst,"SQL, Excel, Power BI",Mid,147898,US,50,Finance
+2021,ML Engineer,"Statistics, R, Data Visualization",Mid,99628,US,0,IT
+2021,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,128018,UK,25,Cloud Services
+2023,AI Engineer,"AWS, Azure, Cloud Computing",Entry,90190,India,0,Cloud Services
+2025,AI Engineer,"Python, SQL, Machine Learning",Senior,67665,Canada,100,Cloud Services
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Mid,112024,India,0,IT
+2025,Business Analyst,"Python, SQL, Machine Learning",Senior,160777,UK,25,Cloud Services
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Mid,123413,Canada,25,Finance
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Senior,99686,UK,0,Finance
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,146507,India,75,Cloud Services
+2025,Business Analyst,"Python, NLP, PyTorch",Entry,126200,Australia,25,Finance
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Senior,110975,US,50,IT
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Mid,86118,UK,25,Healthcare
+2025,ML Engineer,"SQL, Excel, Power BI",Entry,85181,Germany,0,Cloud Services
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,117123,Australia,50,Finance
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,109382,Canada,25,IT
+2025,Data Scientist,"Python, NLP, PyTorch",Senior,126948,Canada,25,Healthcare
+2025,AI Engineer,"Python, NLP, PyTorch",Mid,121973,Australia,100,E-commerce
+2025,ML Engineer,"Python, NLP, PyTorch",Mid,91022,Germany,0,Cloud Services
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,87975,UK,50,Cloud Services
+2025,Software Engineer,"Java, Spring Boot, Microservices",Entry,148592,US,50,E-commerce
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,97528,Australia,100,Healthcare
+2025,Business Analyst,"Java, Spring Boot, Microservices",Senior,127655,UK,50,Finance
+2025,ML Engineer,"Python, TensorFlow, Deep Learning",Mid,128513,UK,50,Healthcare
+2025,Data Analyst,"Python, NLP, PyTorch",Senior,131757,India,50,Cloud Services
+2025,ML Engineer,"Python, SQL, Machine Learning",Mid,162315,Germany,75,Finance
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,141575,US,50,E-commerce
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,125662,US,0,Healthcare
+2025,Business Analyst,"SQL, Excel, Power BI",Senior,85852,Germany,100,IT
+2025,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,82469,UK,75,E-commerce
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,111261,Canada,0,Healthcare
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,79189,Australia,50,Healthcare
+2025,Data Analyst,"Java, Spring Boot, Microservices",Entry,146617,Canada,25,Cloud Services
+2025,AI Engineer,"Java, Spring Boot, Microservices",Entry,66393,US,0,Finance
+2025,Data Analyst,"SQL, Excel, Power BI",Senior,130435,US,0,E-commerce
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,136335,Australia,50,Finance
+2025,Cloud Engineer,"Python, SQL, Machine Learning",Senior,123338,Australia,25,Healthcare
+2025,ML Engineer,"Statistics, R, Data Visualization",Entry,91900,India,100,E-commerce
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Entry,128815,Germany,50,E-commerce
+2025,Software Engineer,"SQL, Excel, Power BI",Entry,107932,Australia,0,Cloud Services
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,153288,Canada,100,Healthcare
+2025,Data Analyst,"Python, NLP, PyTorch",Senior,75856,Australia,50,IT
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,137954,Australia,100,IT
+2025,Business Analyst,"SQL, Excel, Power BI",Mid,163625,Germany,75,Cloud Services
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Mid,84511,US,50,E-commerce
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,121318,Germany,50,Finance
+2025,Data Analyst,"Python, NLP, PyTorch",Entry,158375,India,75,IT
+2025,AI Engineer,"Java, Spring Boot, Microservices",Senior,93615,India,25,IT
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,77301,Canada,100,Healthcare
+2025,Business Analyst,"SQL, Excel, Power BI",Senior,104316,UK,75,Cloud Services
+2025,Cloud Engineer,"Python, NLP, PyTorch",Senior,127007,US,75,E-commerce
+2025,AI Engineer,"Python, SQL, Machine Learning",Senior,116752,Germany,100,Cloud Services
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Mid,108797,UK,75,Finance
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,104152,UK,25,IT
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,129895,Australia,0,Finance
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Senior,122774,US,50,Finance
+2025,AI Engineer,"Statistics, R, Data Visualization",Entry,140268,Germany,25,E-commerce
+2025,Software Engineer,"Python, NLP, PyTorch",Senior,86373,US,0,E-commerce
+2025,Business Analyst,"Java, Spring Boot, Microservices",Mid,170704,Australia,0,Healthcare
+2025,Cloud Engineer,"Python, TensorFlow, Deep Learning",Mid,117115,India,25,E-commerce
+2025,Data Analyst,"Statistics, R, Data Visualization",Entry,147255,India,25,Finance
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,70059,Canada,75,E-commerce
+2025,Software Engineer,"Python, NLP, PyTorch",Mid,116882,UK,25,Healthcare
+2025,Data Scientist,"Python, NLP, PyTorch",Entry,161830,US,25,Finance
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Senior,145346,Germany,25,Cloud Services
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Mid,94692,Canada,0,Healthcare
+2025,AI Engineer,"SQL, Excel, Power BI",Mid,136501,US,75,E-commerce
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,160615,India,50,Finance
+2025,ML Engineer,"Python, NLP, PyTorch",Entry,108484,India,100,IT
+2025,Business Analyst,"Statistics, R, Data Visualization",Mid,109826,India,50,Cloud Services
+2025,Data Analyst,"Python, NLP, PyTorch",Mid,141102,India,50,Finance
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Mid,137663,Germany,75,Finance
+2025,ML Engineer,"Statistics, R, Data Visualization",Mid,76317,India,25,Finance
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Mid,165715,UK,25,Finance
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,90782,Canada,0,Finance
+2025,Data Analyst,"SQL, Excel, Power BI",Entry,93919,US,25,Finance
+2025,Data Scientist,"Java, Spring Boot, Microservices",Senior,93525,Australia,100,IT
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,116862,India,25,Finance
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,160778,Germany,25,IT
+2025,Software Engineer,"Python, SQL, Machine Learning",Senior,142260,UK,0,E-commerce
+2025,AI Engineer,"Python, NLP, PyTorch",Entry,141516,India,25,Finance
+2025,Software Engineer,"Java, Spring Boot, Microservices",Entry,98369,India,50,IT
+2025,Data Analyst,"Python, NLP, PyTorch",Senior,86101,India,0,E-commerce
+2025,Software Engineer,"SQL, Excel, Power BI",Senior,90387,India,75,Cloud Services
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Mid,106176,UK,0,Finance
+2025,ML Engineer,"SQL, Excel, Power BI",Entry,120919,India,100,Cloud Services
+2025,Software Engineer,"Java, Spring Boot, Microservices",Entry,90333,Canada,100,Cloud Services
+2025,Data Analyst,"Python, NLP, PyTorch",Mid,155225,Germany,50,E-commerce
+2025,Data Scientist,"Java, Spring Boot, Microservices",Entry,115408,Germany,0,Cloud Services
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Mid,114515,Germany,50,Healthcare
+2025,Data Analyst,"Python, NLP, PyTorch",Senior,120380,UK,25,E-commerce
+2025,Data Scientist,"Python, NLP, PyTorch",Mid,123981,Canada,50,E-commerce
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,150812,UK,75,E-commerce
+2025,Data Analyst,"Statistics, R, Data Visualization",Entry,89632,Canada,75,E-commerce
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,81280,US,0,Cloud Services
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,76810,UK,50,Finance
+2025,Software Engineer,"Python, NLP, PyTorch",Mid,77711,India,75,Cloud Services
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,141056,India,100,Finance
+2025,Data Analyst,"SQL, Excel, Power BI",Entry,144613,India,0,Cloud Services
+2025,Software Engineer,"Java, Spring Boot, Microservices",Senior,96689,Canada,100,Healthcare
+2025,Cloud Engineer,"SQL, Excel, Power BI",Mid,127079,Germany,50,Cloud Services
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Entry,122573,Australia,50,IT
+2025,AI Engineer,"Statistics, R, Data Visualization",Entry,146884,UK,0,IT
+2025,AI Engineer,"Python, SQL, Machine Learning",Mid,82988,US,50,Healthcare
+2025,Business Analyst,"Java, Spring Boot, Microservices",Senior,98469,UK,75,Healthcare
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,128647,UK,50,IT
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,151203,Germany,50,E-commerce
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,105783,UK,25,Healthcare
+2025,Cloud Engineer,"SQL, Excel, Power BI",Entry,69003,Australia,25,Finance
+2025,AI Engineer,"Java, Spring Boot, Microservices",Entry,103923,Germany,25,E-commerce
+2025,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,85022,US,0,IT
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,107780,Germany,75,E-commerce
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Mid,159898,UK,50,E-commerce
+2025,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,118980,US,75,E-commerce
+2025,Data Analyst,"Java, Spring Boot, Microservices",Entry,83853,Canada,50,E-commerce
+2025,Cloud Engineer,"Python, TensorFlow, Deep Learning",Entry,80625,US,50,E-commerce
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Entry,163186,Canada,50,Healthcare
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,155884,Australia,100,Cloud Services
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,126833,Canada,75,Finance
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Entry,74342,Germany,100,E-commerce
+2025,Cloud Engineer,"Python, NLP, PyTorch",Mid,103449,US,50,IT
+2025,Data Scientist,"SQL, Excel, Power BI",Senior,133231,US,75,Healthcare
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,68241,US,100,Healthcare
+2025,ML Engineer,"Java, Spring Boot, Microservices",Senior,148418,India,25,Healthcare
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Mid,80162,India,25,Finance
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,140659,Germany,50,IT
+2025,Data Scientist,"Python, NLP, PyTorch",Entry,131045,Australia,50,Finance
+2025,Business Analyst,"Python, SQL, Machine Learning",Mid,71982,US,25,E-commerce
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,105564,Canada,50,Finance
+2025,Software Engineer,"Python, SQL, Machine Learning",Mid,72820,Canada,75,Cloud Services
+2025,Software Engineer,"Java, Spring Boot, Microservices",Entry,89953,UK,75,Healthcare
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,144004,Germany,25,Healthcare
+2025,AI Engineer,"SQL, Excel, Power BI",Mid,64659,India,50,IT
+2025,AI Engineer,"Java, Spring Boot, Microservices",Mid,63807,Canada,25,IT
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,100432,Canada,0,Finance
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,115637,Australia,100,E-commerce
+2025,Data Analyst,"Python, NLP, PyTorch",Entry,153437,Germany,25,Finance
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,67329,US,25,E-commerce
+2025,Business Analyst,"Python, NLP, PyTorch",Mid,63203,UK,50,IT
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Entry,91486,US,75,E-commerce
+2025,Software Engineer,"SQL, Excel, Power BI",Entry,116976,India,0,Finance
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,144519,UK,0,Cloud Services
+2025,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,124006,US,50,E-commerce
+2025,AI Engineer,"Python, SQL, Machine Learning",Senior,125536,US,50,E-commerce
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,68934,India,25,Healthcare
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,145349,UK,75,Finance
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,117713,UK,75,Healthcare
+2025,Data Scientist,"Statistics, R, Data Visualization",Mid,98247,UK,75,IT
+2025,Software Engineer,"Python, NLP, PyTorch",Entry,126844,UK,100,E-commerce
+2025,AI Engineer,"Python, NLP, PyTorch",Entry,149781,Canada,0,E-commerce
+2025,Business Analyst,"Java, Spring Boot, Microservices",Mid,68465,UK,100,Cloud Services
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,94890,Canada,100,Healthcare
+2025,Data Scientist,"Statistics, R, Data Visualization",Entry,66503,Australia,25,Finance
+2025,Business Analyst,"SQL, Excel, Power BI",Senior,145013,India,75,E-commerce
+2025,AI Engineer,"Python, NLP, PyTorch",Senior,81951,Canada,75,Healthcare
+2025,Data Analyst,"Statistics, R, Data Visualization",Mid,158428,Canada,0,E-commerce
+2025,Software Engineer,"Python, NLP, PyTorch",Entry,151312,Australia,100,Healthcare
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Mid,166720,US,50,E-commerce
+2025,Business Analyst,"Statistics, R, Data Visualization",Mid,96488,US,0,Healthcare
+2025,Data Analyst,"Java, Spring Boot, Microservices",Senior,80607,Australia,75,Finance
+2025,Business Analyst,"Statistics, R, Data Visualization",Senior,102646,Canada,25,Finance
+2025,Cloud Engineer,"Python, SQL, Machine Learning",Entry,165790,US,75,Healthcare
+2025,Software Engineer,"SQL, Excel, Power BI",Entry,82440,UK,25,E-commerce
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,79668,Germany,100,IT
+2025,Data Scientist,"Python, SQL, Machine Learning",Entry,167282,India,100,Finance
+2025,AI Engineer,"Statistics, R, Data Visualization",Senior,110052,US,75,Cloud Services
+2025,Data Scientist,"SQL, Excel, Power BI",Entry,98122,US,0,Finance
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Entry,156342,India,0,Cloud Services
+2025,Data Scientist,"Java, Spring Boot, Microservices",Entry,113551,US,25,Cloud Services
+2025,ML Engineer,"SQL, Excel, Power BI",Mid,148884,Canada,100,Healthcare
+2025,ML Engineer,"Statistics, R, Data Visualization",Entry,125839,India,100,E-commerce
+2025,Data Scientist,"Statistics, R, Data Visualization",Mid,103529,Canada,0,Finance
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,108150,Australia,0,E-commerce
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,152682,Canada,25,Cloud Services
+2025,Business Analyst,"Java, Spring Boot, Microservices",Senior,110495,Canada,100,Healthcare
+2025,ML Engineer,"SQL, Excel, Power BI",Mid,140875,Canada,25,Finance
+2025,Business Analyst,"Python, NLP, PyTorch",Mid,94407,Canada,75,IT
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,92458,Australia,25,IT
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Senior,104414,India,50,IT
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Senior,105334,Germany,0,IT
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Entry,78040,UK,25,Cloud Services
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,138995,UK,0,IT
+2025,Data Analyst,"Python, SQL, Machine Learning",Entry,161667,Canada,100,Healthcare
+2025,AI Engineer,"Python, SQL, Machine Learning",Senior,124377,Canada,100,Finance
+2025,Data Analyst,"SQL, Excel, Power BI",Senior,68146,UK,0,IT
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Senior,119805,India,100,Healthcare
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,144669,UK,75,Finance
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Mid,97895,Germany,75,IT
+2025,ML Engineer,"Java, Spring Boot, Microservices",Entry,95646,UK,25,E-commerce
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Entry,87327,Canada,0,Healthcare
+2025,Business Analyst,"Java, Spring Boot, Microservices",Entry,103057,US,100,E-commerce
+2025,Data Analyst,"Java, Spring Boot, Microservices",Entry,94147,Germany,25,Healthcare
+2025,AI Engineer,"Java, Spring Boot, Microservices",Senior,124344,India,75,E-commerce
+2025,Data Scientist,"Java, Spring Boot, Microservices",Senior,72755,Germany,25,IT
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,139222,UK,25,Cloud Services
+2025,Data Scientist,"Python, SQL, Machine Learning",Senior,101903,Germany,25,Healthcare
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Mid,140322,UK,50,E-commerce
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Senior,137757,Australia,25,Healthcare
+2025,Data Analyst,"SQL, Excel, Power BI",Entry,111447,Germany,75,Finance
+2025,Business Analyst,"Statistics, R, Data Visualization",Senior,130564,UK,0,IT
+2025,Data Analyst,"Java, Spring Boot, Microservices",Senior,155571,Germany,100,Cloud Services
+2025,Data Scientist,"Java, Spring Boot, Microservices",Senior,157401,Canada,50,IT
+2025,AI Engineer,"Python, SQL, Machine Learning",Entry,125325,Australia,25,IT
+2025,Data Scientist,"Java, Spring Boot, Microservices",Entry,150382,Australia,50,Healthcare
+2025,Business Analyst,"Python, NLP, PyTorch",Mid,89779,Canada,100,Cloud Services
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,82636,Australia,50,Cloud Services
+2025,Software Engineer,"SQL, Excel, Power BI",Mid,96780,US,25,IT
+2025,Data Scientist,"Python, NLP, PyTorch",Mid,90120,Canada,25,E-commerce
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,85134,Australia,75,Finance
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Mid,95117,Australia,0,Healthcare
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Entry,88571,Canada,50,IT
+2025,AI Engineer,"Statistics, R, Data Visualization",Senior,96517,US,75,Finance
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,155349,Australia,25,IT
+2025,Data Analyst,"SQL, Excel, Power BI",Mid,105955,US,100,Cloud Services
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,128023,US,0,Cloud Services
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,71958,US,100,Finance
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Senior,140155,India,25,IT
+2025,Software Engineer,"Python, NLP, PyTorch",Senior,157565,Canada,100,IT
+2025,AI Engineer,"Java, Spring Boot, Microservices",Entry,150048,Canada,75,Cloud Services
+2025,Data Analyst,"Statistics, R, Data Visualization",Senior,166782,Canada,0,E-commerce
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Mid,130558,US,75,Cloud Services
+2025,Data Scientist,"Java, Spring Boot, Microservices",Entry,122567,UK,0,E-commerce
+2025,Data Scientist,"Python, NLP, PyTorch",Senior,137604,Canada,100,Cloud Services
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,84646,Canada,75,Healthcare
+2025,Business Analyst,"Java, Spring Boot, Microservices",Mid,131834,India,25,Healthcare
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,145430,Germany,0,Healthcare
+2025,Data Analyst,"Statistics, R, Data Visualization",Mid,141844,Germany,75,Cloud Services
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,124516,Canada,75,E-commerce
+2025,Software Engineer,"Python, SQL, Machine Learning",Mid,101046,India,100,E-commerce
+2025,Data Scientist,"Python, SQL, Machine Learning",Entry,144924,Australia,100,Finance
+2025,ML Engineer,"Python, NLP, PyTorch",Entry,138641,Canada,50,Finance
+2025,Software Engineer,"Python, SQL, Machine Learning",Senior,84115,Canada,25,E-commerce
+2025,Business Analyst,"Python, SQL, Machine Learning",Senior,154550,Canada,0,Finance
+2025,Data Analyst,"Python, SQL, Machine Learning",Mid,74867,UK,0,Finance
+2025,Data Scientist,"Python, SQL, Machine Learning",Mid,128912,India,25,IT
+2025,Data Analyst,"Statistics, R, Data Visualization",Entry,104701,Australia,25,IT
+2025,ML Engineer,"Python, NLP, PyTorch",Senior,92894,Australia,75,Cloud Services
+2025,AI Engineer,"Python, SQL, Machine Learning",Entry,69494,India,100,Healthcare
+2025,Data Scientist,"Python, NLP, PyTorch",Mid,149979,US,25,Healthcare
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Mid,91834,Germany,75,Cloud Services
+2025,AI Engineer,"Java, Spring Boot, Microservices",Senior,67332,Australia,100,Finance
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,131068,Canada,25,Finance
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,89809,Germany,25,Healthcare
+2025,Data Scientist,"Java, Spring Boot, Microservices",Senior,148548,Australia,0,Cloud Services
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,161853,UK,100,Healthcare
+2025,Data Analyst,"SQL, Excel, Power BI",Senior,107832,Australia,100,Finance
+2025,Business Analyst,"Python, SQL, Machine Learning",Entry,76597,Germany,25,Cloud Services
+2025,ML Engineer,"Statistics, R, Data Visualization",Entry,79148,US,75,Cloud Services
+2025,Business Analyst,"AWS, Azure, Cloud Computing",Entry,92952,Germany,0,Healthcare
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,87306,UK,50,Finance
+2025,Cloud Engineer,"Python, TensorFlow, Deep Learning",Senior,85809,UK,25,Healthcare
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Entry,157231,India,25,E-commerce
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,136683,Canada,0,E-commerce
+2025,Data Scientist,"SQL, Excel, Power BI",Mid,167660,India,25,IT
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,112490,Germany,25,IT
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Entry,91136,UK,50,Finance
+2025,Software Engineer,"Java, Spring Boot, Microservices",Mid,71935,Canada,75,Healthcare
+2025,ML Engineer,"SQL, Excel, Power BI",Mid,102298,Canada,100,IT
+2025,Business Analyst,"Statistics, R, Data Visualization",Senior,146777,Germany,0,IT
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,160000,UK,0,Healthcare
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Mid,164238,Germany,50,Finance
+2025,ML Engineer,"Java, Spring Boot, Microservices",Entry,141403,Germany,25,Cloud Services
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,74717,Canada,25,Cloud Services
+2025,Data Scientist,"Python, SQL, Machine Learning",Mid,102441,Canada,75,Healthcare
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Senior,73598,Canada,75,IT
+2025,Business Analyst,"Java, Spring Boot, Microservices",Mid,114193,UK,25,Cloud Services
+2025,Software Engineer,"Python, SQL, Machine Learning",Senior,113277,India,100,IT
+2025,Data Scientist,"Statistics, R, Data Visualization",Entry,157842,Canada,100,Finance
+2025,Data Analyst,"Python, SQL, Machine Learning",Mid,147442,Canada,100,Healthcare
+2025,ML Engineer,"Statistics, R, Data Visualization",Mid,114838,India,50,Finance
+2025,Business Analyst,"SQL, Excel, Power BI",Mid,85131,Australia,25,IT
+2025,Business Analyst,"SQL, Excel, Power BI",Entry,70225,UK,100,Healthcare
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,143544,Australia,50,Cloud Services
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Senior,107720,India,25,E-commerce
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,111372,Australia,50,E-commerce
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Mid,80814,UK,100,Healthcare
+2025,Data Analyst,"Java, Spring Boot, Microservices",Mid,80486,Germany,25,E-commerce
+2025,Cloud Engineer,"Python, SQL, Machine Learning",Senior,126251,Australia,75,Finance
+2025,AI Engineer,"Python, NLP, PyTorch",Entry,66170,Canada,100,Finance
+2025,Software Engineer,"Java, Spring Boot, Microservices",Senior,108610,India,25,E-commerce
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Mid,150741,Australia,0,Finance
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Mid,132549,Germany,75,IT
+2025,Cloud Engineer,"SQL, Excel, Power BI",Mid,131446,Canada,0,IT
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Mid,88556,Australia,25,E-commerce
+2025,Data Analyst,"Statistics, R, Data Visualization",Mid,92643,Australia,50,Healthcare
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Entry,69243,India,50,Cloud Services
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,166323,Australia,50,Cloud Services
+2025,Data Scientist,"SQL, Excel, Power BI",Mid,157172,Australia,0,Cloud Services
+2025,Cloud Engineer,"Python, NLP, PyTorch",Entry,88730,US,100,E-commerce
+2025,Data Analyst,"Python, SQL, Machine Learning",Mid,138443,Canada,50,IT
+2025,ML Engineer,"Python, SQL, Machine Learning",Mid,146196,Canada,100,IT
+2025,AI Engineer,"Statistics, R, Data Visualization",Senior,146234,UK,50,Healthcare
+2025,Software Engineer,"Python, NLP, PyTorch",Entry,91540,Australia,100,Cloud Services
+2025,AI Engineer,"Java, Spring Boot, Microservices",Entry,168042,UK,100,IT
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Senior,99627,India,0,Cloud Services
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,73752,US,100,Finance
+2025,Data Analyst,"Java, Spring Boot, Microservices",Senior,171181,Australia,100,Cloud Services
+2025,ML Engineer,"Python, NLP, PyTorch",Mid,77552,UK,0,Healthcare
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,155147,Germany,50,Finance
+2025,Business Analyst,"Statistics, R, Data Visualization",Mid,164709,Australia,50,Healthcare
+2025,Data Scientist,"Java, Spring Boot, Microservices",Senior,93018,US,50,IT
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Entry,92508,UK,0,Cloud Services
+2025,AI Engineer,"Python, TensorFlow, Deep Learning",Senior,148454,US,50,Finance
+2025,Software Engineer,"Python, NLP, PyTorch",Entry,66332,Australia,50,Healthcare
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,139380,Canada,0,E-commerce
+2025,AI Engineer,"SQL, Excel, Power BI",Senior,110604,UK,100,Healthcare
+2025,Software Engineer,"SQL, Excel, Power BI",Entry,85226,Australia,75,E-commerce
+2025,Business Analyst,"Python, SQL, Machine Learning",Entry,109703,India,0,IT
+2025,Software Engineer,"Python, SQL, Machine Learning",Entry,82843,India,25,Cloud Services
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Mid,158667,UK,75,E-commerce
+2025,Software Engineer,"Python, SQL, Machine Learning",Entry,78427,Australia,75,Cloud Services
+2025,Data Analyst,"Python, NLP, PyTorch",Entry,151763,UK,50,IT
+2025,Business Analyst,"SQL, Excel, Power BI",Entry,109384,US,25,Healthcare
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,134640,US,25,Healthcare
+2025,Software Engineer,"Statistics, R, Data Visualization",Senior,120533,Canada,75,Finance
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,148852,India,0,Finance
+2025,ML Engineer,"SQL, Excel, Power BI",Entry,160959,Australia,75,E-commerce
+2025,AI Engineer,"Python, NLP, PyTorch",Entry,106210,Canada,25,IT
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Mid,68250,Germany,75,Healthcare
+2025,Business Analyst,"Python, SQL, Machine Learning",Mid,86416,India,75,Finance
+2025,AI Engineer,"Python, SQL, Machine Learning",Mid,83010,Australia,0,Healthcare
+2025,AI Engineer,"Java, Spring Boot, Microservices",Entry,92514,India,0,Healthcare
+2025,Software Engineer,"Python, NLP, PyTorch",Entry,76964,Australia,100,E-commerce
+2025,Data Scientist,"SQL, Excel, Power BI",Mid,109654,Germany,75,Healthcare
+2025,Data Analyst,"SQL, Excel, Power BI",Mid,145193,Germany,25,Cloud Services
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Entry,118243,US,0,IT
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Mid,130328,Germany,25,E-commerce
+2025,Cloud Engineer,"Python, NLP, PyTorch",Mid,153316,Australia,25,Healthcare
+2025,Business Analyst,"Python, NLP, PyTorch",Mid,147670,Germany,75,IT
+2025,Software Engineer,"Python, SQL, Machine Learning",Entry,83757,India,50,Cloud Services
+2025,Data Scientist,"AWS, Azure, Cloud Computing",Senior,124714,Canada,0,IT
+2025,Software Engineer,"Statistics, R, Data Visualization",Mid,94621,US,100,Cloud Services
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Mid,156564,Germany,100,Cloud Services
+2025,Software Engineer,"Python, NLP, PyTorch",Senior,124309,India,0,Healthcare
+2025,Business Analyst,"Statistics, R, Data Visualization",Entry,87134,India,50,Finance
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Mid,146950,Canada,25,Finance
+2025,Business Analyst,"Python, SQL, Machine Learning",Senior,113883,Australia,25,Healthcare
+2025,Data Analyst,"Java, Spring Boot, Microservices",Mid,88332,Canada,25,Finance
+2025,Data Analyst,"Python, NLP, PyTorch",Mid,122072,Canada,25,Cloud Services
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,81976,US,100,IT
+2025,ML Engineer,"Java, Spring Boot, Microservices",Mid,111465,UK,100,Finance
+2025,Data Scientist,"Python, TensorFlow, Deep Learning",Senior,98655,India,75,Finance
+2025,AI Engineer,"Statistics, R, Data Visualization",Mid,132549,India,0,Healthcare
+2025,Data Analyst,"AWS, Azure, Cloud Computing",Entry,69092,Australia,0,IT
+2025,ML Engineer,"Python, NLP, PyTorch",Entry,88480,US,100,Cloud Services
+2025,Software Engineer,"AWS, Azure, Cloud Computing",Senior,136504,Germany,100,Finance
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,128346,Canada,100,E-commerce
+2025,Software Engineer,"Python, NLP, PyTorch",Mid,115023,Germany,75,Healthcare
+2025,Data Scientist,"SQL, Excel, Power BI",Mid,106094,Germany,0,Finance
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Senior,139324,US,25,E-commerce
+2025,Software Engineer,"Java, Spring Boot, Microservices",Entry,83011,Canada,0,Healthcare
+2025,ML Engineer,"AWS, Azure, Cloud Computing",Entry,91114,Canada,0,IT
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Senior,152885,India,0,Cloud Services
+2025,AI Engineer,"SQL, Excel, Power BI",Mid,133272,Australia,100,IT
+2025,Business Analyst,"Java, Spring Boot, Microservices",Senior,106592,Australia,25,IT
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Entry,77660,Australia,0,E-commerce
+2025,ML Engineer,"Statistics, R, Data Visualization",Senior,70137,India,50,Healthcare
+2025,AI Engineer,"AWS, Azure, Cloud Computing",Entry,168914,Australia,0,IT
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,71444,Germany,50,Healthcare
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Entry,167661,India,0,Finance
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Mid,103797,Germany,50,IT
+2025,Data Scientist,"Statistics, R, Data Visualization",Entry,78630,US,100,IT
+2025,AI Engineer,"SQL, Excel, Power BI",Senior,99530,Germany,100,Healthcare
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,106329,Germany,0,Cloud Services
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,85608,Germany,25,IT
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,167797,Australia,75,Healthcare
+2025,Business Analyst,"Python, TensorFlow, Deep Learning",Senior,94256,US,75,IT
+2025,ML Engineer,"Python, TensorFlow, Deep Learning",Entry,72349,Australia,100,Finance
+2025,Business Analyst,"Python, NLP, PyTorch",Mid,69066,Germany,75,E-commerce
+2025,Cloud Engineer,"AWS, Azure, Cloud Computing",Senior,120266,India,25,IT
+2025,ML Engineer,"Python, SQL, Machine Learning",Mid,72291,Germany,50,IT
+2025,ML Engineer,"Statistics, R, Data Visualization",Entry,138132,UK,0,Healthcare
+2025,Business Analyst,"Statistics, R, Data Visualization",Senior,121077,Germany,25,Cloud Services
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Entry,106667,US,75,Finance
+2025,Data Analyst,"Java, Spring Boot, Microservices",Entry,136463,Canada,0,Finance
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Senior,105170,Germany,100,E-commerce
+2025,AI Engineer,"Python, SQL, Machine Learning",Entry,151024,Australia,50,Finance
+2025,Data Analyst,"Python, SQL, Machine Learning",Senior,114556,Germany,25,E-commerce
+2025,ML Engineer,"Java, Spring Boot, Microservices",Senior,161292,Germany,100,Finance
+2025,ML Engineer,"Statistics, R, Data Visualization",Senior,89371,UK,50,IT
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,133396,Germany,50,IT
+2025,AI Engineer,"Python, NLP, PyTorch",Senior,69754,India,50,IT
+2025,Software Engineer,"Python, TensorFlow, Deep Learning",Mid,120457,Canada,25,Cloud Services
+2025,Software Engineer,"Python, SQL, Machine Learning",Senior,77907,UK,100,IT
+2025,Cloud Engineer,"Python, SQL, Machine Learning",Senior,154966,Germany,100,Healthcare
+2025,Cloud Engineer,"Statistics, R, Data Visualization",Senior,124229,Germany,75,Healthcare
+2025,Business Analyst,"Java, Spring Boot, Microservices",Senior,93102,Germany,100,IT
+2025,Data Analyst,"Statistics, R, Data Visualization",Entry,128280,Australia,0,Finance
+2025,Data Scientist,"Statistics, R, Data Visualization",Mid,159598,Germany,50,Finance
+2025,Data Analyst,"Python, SQL, Machine Learning",Mid,128702,Germany,100,Healthcare
+2025,ML Engineer,"Python, SQL, Machine Learning",Mid,128575,UK,75,Finance
+2025,AI Engineer,"SQL, Excel, Power BI",Mid,111356,UK,25,Cloud Services
+2025,Cloud Engineer,"Java, Spring Boot, Microservices",Senior,85354,Australia,25,Finance
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,124381,Germany,100,Healthcare
+2025,Software Engineer,"Statistics, R, Data Visualization",Entry,133163,Germany,25,Healthcare
+2025,Business Analyst,"Python, SQL, Machine Learning",Mid,86745,Canada,100,Finance
+2025,Data Scientist,"Statistics, R, Data Visualization",Senior,130477,Australia,75,Finance
+2025,Software Engineer,"Statistics, R, Data Visualization",Entry,90090,Australia,50,Finance
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Senior,138108,UK,50,E-commerce
+2025,Business Analyst,"Python, NLP, PyTorch",Senior,77845,Canada,75,Finance
+2025,Business Analyst,"Python, NLP, PyTorch",Entry,127313,India,100,Cloud Services
+2025,AI Engineer,"SQL, Excel, Power BI",Entry,115322,Germany,25,Healthcare
+2025,Software Engineer,"Python, SQL, Machine Learning",Mid,69998,Canada,100,Healthcare
+2025,Data Analyst,"Python, TensorFlow, Deep Learning",Mid,159431,Australia,50,IT
+2025,Data Analyst,"SQL, Excel, Power BI",Mid,160269,US,50,Finance
