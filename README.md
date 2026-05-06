@@ -66,8 +66,8 @@ The results are displayed through an interactive Streamlit dashboard with charts
 
 ## Development Tools
 
-* VS Code
-* Jupyter Notebook
+# VS Code → Used for coding and application development
+# Streamlit → Used for building the interactive dashboard
 
 ---
 
